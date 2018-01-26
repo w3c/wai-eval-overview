@@ -1,12 +1,16 @@
 ---
-title: Accessibility Evaluation Resources
+title: Evaluating Web Accessibility Overview
 permalink: /evaluation/
 redirect_from: /
 layout: default
 ---
-<div id="main">
-<h1>Evaluating Web Accessibility Overview</h1>
-<h2>Page Contents</h2>
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
 <ul>
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#initial">Initial Checks</a></li>
@@ -15,6 +19,10 @@ layout: default
 <li><a href="#reports">Reports</a></li>
 <li><a href="#people">People</a></li>
 </ul>
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}  
+  
 <h2 id="intro">Introduction</h2>
 <p>When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.</p>
 <p>There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility standards. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
