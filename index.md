@@ -21,21 +21,21 @@ layout: default
 </ul>
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
-{:/}  
-  
+{:/}
+
 <h2 id="intro">Introduction</h2>
 <p>When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.</p>
 <p>There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility standards. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
 <h2 id="initial">Initial Checks</h2>
 <p>Even if you don't know know anything about accessibility and you don't have a robust accessibility tool, you can check some aspects of accessibility.</p>
 <dl>
-<dt><a href="@@">Easy Checks – A First Review of Web Accessibility</a></dt>
+<dt><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks – A First Review of Web Accessibility</a></dt>
 <dd>Provides step-by-step guidance and brief explanations for checking some aspects of  accessibility.</dd>
 </dl>
 <h2 id="tools">Tools</h2>
 <p>Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.</p>
 <dl>
-<dt><a href="https://www.w3.org/WAI/eval/selectingtools.html" shape="rect">Selecting Web Accessibility Evaluation Tools</a></dt>
+<dt><a href="https://www.w3.org/WAI/eval/selectingtools.html">Selecting Web Accessibility Evaluation Tools</a></dt>
 <dd> Provides guidance on choosing   tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.</dd>
 <dt><a href="https://www.w3.org/WAI/ER/tools/">Web Accessibility Evaluation Tools List</a> <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></dt>
 <dd> Includes information on almost 100 tools. You can use the filters to narrow down the list to the types of tools you are interested in.</dd>
