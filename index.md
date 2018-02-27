@@ -18,6 +18,7 @@ layout: default
 <li><a href="#conformance">Conformance Evaluation</a></li>
 <li><a href="#reports">Reports</a></li>
 <li><a href="#people">People</a></li>
+<li><a href="#standards">Standards</a></li>
 </ul>
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
