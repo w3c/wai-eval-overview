@@ -62,5 +62,3 @@ layout: default
 <dt><a href="https://www.w3.org/WAI/eval/reviewteams">Using Combined Expertise to Evaluate Web Accessibility</a></dt>
 <dd>Discusses skill sets and considerations for collaborative review.</dd>
 </dl>
-
-<br/><br/>
