@@ -35,10 +35,10 @@ layout: default
 <h2 id="tools">Tools</h2>
 <p>Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.</p>
 <dl>
-<dt><a href="https://www.w3.org/WAI/eval/selectingtools.html">Selecting Web Accessibility Evaluation Tools</a></dt>
-<dd> Provides guidance on choosing   tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.</dd>
 <dt><a href="https://www.w3.org/WAI/ER/tools/">Web Accessibility Evaluation Tools List</a> <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></dt>
 <dd> Includes information on almost 100 tools. You can use the filters to narrow down the list to the types of tools you are interested in.</dd>
+<dt><a href="https://www.w3.org/WAI/eval/selectingtools.html">Selecting Web Accessibility Evaluation Tools</a></dt>
+<dd> Provides guidance on choosing   tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.</dd>
 </dl>
 <h2 id="conformance">Conformance Evaluation</h2>
 <p>Conformance evaluation determines how well web pages or applications meet accessibility standards. <acronym title="World Wide Web Consortium">W3C</acronym>'s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).</p>
@@ -62,3 +62,5 @@ layout: default
 <dt><a href="https://www.w3.org/WAI/eval/reviewteams">Using Combined Expertise to Evaluate Web Accessibility</a></dt>
 <dd>Discusses skill sets and considerations for collaborative review.</dd>
 </dl>
+<h2 id="standards">Standards</h2>
+<p>Specifications for writing accessibility test rules (ACT Rules Format) and expressing test results (EARL) are introduced in the <a href="https://w3c.github.io/wai-std-gl-overview/standards-guidelines/#eval">For Evaluation section</a> of the W3C Accessibility Standards Overview.</p>
