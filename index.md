@@ -1,6 +1,6 @@
 ---
 title: Evaluating Web Accessibility Overview
-permalink: /evaluation/
+permalink: /test-evaluate/
 layout: default
 footer: >
   <p><strong>Status:</strong> Updated 13 February 2018.<br>Editor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
