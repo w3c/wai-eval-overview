@@ -60,7 +60,7 @@ footer: >
 <h2 id="people">People</h2>
 <p>Getting the right people and skills involved makes your accessibility evaluations more effective.</p>
 <dl>
-<dt><a href="https://www.w3.org/WAI/eval/users">Involving Users in Evaluating Web Accessibility</a></dt>
+<dt><a href="{{ "/test-evaluate/involving-users/" | relative_url }}">Involving Users in Evaluating Web Accessibility</a></dt>
 <dd>Provides guidance on including people with disabilities (&quot;users&quot;) in evaluation throughout project development.</dd>
 <dt><a href="https://www.w3.org/WAI/eval/reviewteams">Using Combined Expertise to Evaluate Web Accessibility</a></dt>
 <dd>Discusses skill sets and considerations for collaborative review.</dd>
