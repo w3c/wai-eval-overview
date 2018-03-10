@@ -32,7 +32,7 @@ footer: >
 <h2 id="initial">Initial Checks</h2>
 <p>Even if you don't know know anything about accessibility and you don't have a robust accessibility tool, you can check some aspects of accessibility.</p>
 <dl>
-<dt><a href="https://www.w3.org/WAI/eval/preliminary">Easy Checks – A First Review of Web Accessibility</a></dt>
+<dt><a href="{{ "/test-evaluate/preliminary/" | relative_url }}">Easy Checks – A First Review of Web Accessibility</a></dt>
 <dd>Provides step-by-step guidance and brief explanations for checking some aspects of  accessibility.</dd>
 </dl>
 <h2 id="tools">Tools</h2>
