@@ -9,6 +9,17 @@ footer: >
 ---
 
 {::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page links to resources to help evaluate web accessibility. Accessibility evaluation is also called "assessment", "audit", and "testing".
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+{::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
