@@ -5,7 +5,9 @@ github:
   repository: w3c/wai-eval-overview
 layout: default
 footer: >
-  <p><strong>Status:</strong> Updated 13 February 2018.<br>Editor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p><strong>Date:</strong> Updated 13 February 2018.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+
 ---
 
 {::nomarkdown}
