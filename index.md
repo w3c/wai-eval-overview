@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-eval-overview
 layout: default
 footer: >
-  <p><strong>Date:</strong> Updated 13 February 2018.</p>
+  <p><strong>Date:</strong> Updated 20 September 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -45,7 +45,7 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 <p>When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.</p>
 <p>There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility standards. Knowledgeable human evaluation is required to determine if a site is accessible.</p>
 <h2 id="initial">Initial Checks</h2>
-<p>Even if you don't know know anything about accessibility and you don't have a robust accessibility tool, you can check some aspects of accessibility.</p>
+<p>Even if you don't know anything about accessibility and you don't have a robust accessibility tool, you can check some aspects of accessibility.</p>
 <dl>
 <dt><a href="{{ "/test-evaluate/preliminary/" | relative_url }}">Easy Checks – A First Review of Web Accessibility</a></dt>
 <dd>Provides step-by-step guidance and brief explanations for checking some aspects of  accessibility.</dd>
