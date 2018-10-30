@@ -81,4 +81,4 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 <dd>Discusses skill sets and considerations for collaborative review.</dd>
 </dl>
 <h2 id="standards">Standards</h2>
-<p>Specifications for writing accessibility test rules (<abbr title="Accessibility Conformance Testing">ACT</abbr> Rules Format) and expressing test results (<abbr title="Evaluation and Report Language">EARL</abbr>) are introduced in <a href="/standards-guidelines/evaluation/">Evaluation Standards Overview</a>.</p>
+<p>Specifications for writing accessibility test rules (<abbr title="Accessibility Conformance Testing">ACT</abbr> Rules Format) and expressing test results (<abbr title="Evaluation and Report Language">EARL</abbr>) are introduced in <a href="{{ "/standards-guidelines/evaluation/" | relative_url }}">Evaluation Standards Overview</a>.</p>
