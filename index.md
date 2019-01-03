@@ -4,6 +4,7 @@ permalink: /test-evaluate/
 github: 
   repository: w3c/wai-eval-overview
 layout: default
+feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 20 September 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
