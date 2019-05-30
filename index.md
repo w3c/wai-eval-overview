@@ -42,23 +42,20 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 {% include_cached toc.html type="end" %}
 {:/}
 
-Introduction {#intro}
-------------
+## Introduction {#intro}
 
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
 
 There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility standards. Knowledgeable human evaluation is required to determine if a site is accessible.
 
-Initial Checks {#initial}
---------------
+## Initial Checks {#initial}
 
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
 
 [Easy Checks — A First Review of Web Accessibility](/test-evaluate/preliminary/)
 :   Provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
 
-Tools
------
+## Tools
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
 
@@ -68,16 +65,14 @@ Web accessibility evaluation tools are software programs or online services that
 [[Selecting Web Accessibility Evaluation Tools]](/test-evaluate/tools/selecting/)
 :   Provides guidance on choosing tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.
 
-Conformance Evaluation {#conformance}
-----------------------
+## Conformance Evaluation {#conformance}
 
 Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
 
 [[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/)
 :   A short page with basic information to get you started. We suggest you read it before going to the [full WCAG-EM document](https://www.w3.org/TR/WCAG-EM/).
 
-Reports
--------
+## Reports
 
 Communicate the results of evaluation clearly, including the scope of the evaluation.
 
@@ -87,8 +82,7 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 [[Template for Web Accessibility Evaluation Reports]](/test-evaluate/report-template/)
 :   Suggests information to include in a report.
 
-People
-------
+## People
 
 Getting the right people and skills involved makes your accessibility evaluations more effective.
 
@@ -98,7 +92,6 @@ Getting the right people and skills involved makes your accessibility evaluation
 [Using Combined Expertise to Evaluate Web Accessibility](/test-evaluate/combined-expertise/)
 :   Discusses skill sets and considerations for collaborative review.
 
-Standards
----------
+## Standards
 
 Specifications for writing accessibility test rules (ACT Rules Format) and expressing test results (EARL) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
