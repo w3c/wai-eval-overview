@@ -47,11 +47,11 @@ collections:
   #   permalink: /:collection/:path/
 
 defaults:
-  # -
-  #   scope:
-  #     path: "_older-users"
-  #   values:
-  #     layout: "sidenav"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 
 plugins:
   - jekyll-seo-tag
@@ -59,3 +59,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-remote-theme
+  - wai-website-plugin
