@@ -13,7 +13,7 @@ translators:
 - name: "Jorge Rumoroso"
   link: "https://twitter.com/rumoroso"
 contributors:
-#- name: ""
+- name: "Carlos Muncharaz"
 
 github: 
   repository: w3c/wai-eval-overview
@@ -51,13 +51,13 @@ Esta página contiene enlaces a recursos para ayudar a evaluar la accesibilidad 
 
 ## Introducción {#intro}
 
-Al desarrollar o rediseñar un sitio web o una aplicación web, evalúe la accesibilidad desde el principio y durante todo el proceso de desarrollo para identificar los problemas de accesibilidad desde el principio, cuando es más fácil resolverlos.
+Al desarrollar o rediseñar un sitio web o una aplicación web, evalúe la accesibilidad desde el principio y durante todo el proceso de desarrollo para identificar los problemas de accesibilidad lo antes posible, cuando es más fácil resolverlos.
 
 Existen herramientas que ayudan con la evaluación. Sin embargo, ninguna herramienta por sí sola puede determinar si un sitio cumple con los estándares de accesibilidad. Se requieren buenos conocimientos para determinar si un sitio es accesible.
 
 ## Pruebas iniciales {#initial}
 
-Incluso si usted no tiene conocimiento sobre accesibilidad y no posee herramientas para evaluarla, aun puede comprobar algunos de los aspectos de la accesibilidad.
+Incluso si usted no tiene conocimiento sobre accesibilidad y no posee herramientas para evaluarla, aún puede comprobar algunos de los aspectos de la accesibilidad.
 
 [Comprobaciones sencillas — Una primera revisión a la accesibilidad web](/test-evaluate/preliminary/)
 :   Facilita una guía paso a paso, junto con sencillas explicaciones, para evaluar algunos aspectos de la accesibilidad.
@@ -74,7 +74,7 @@ Las herramientas de evaluación de la accesibilidad web son programas de softwar
 
 ## Evaluación de la conformidad {#conformance}
 
-La evaluación de conformidad determina el grado en que las páginas o las aplicaciones web cumplen los estándares de accesibilidad. La metodología de evaluación de la conformidad de la accesibilidad de sitios web del W3C (WCAG-EM) es un acercamiento para determinar la conformidad con las Pautas de Accesibilidad al Contenido Web (WCAG).
+La evaluación de conformidad determina el grado en que las páginas o las aplicaciones web cumplen los estándares de accesibilidad. La "Metodología de evaluación de la conformidad de la accesibilidad de sitios web" (WCAG-EM) del W3C es un acercamiento para determinar la conformidad con las Pautas de Accesibilidad al Contenido Web (WCAG).
 
 [[Visión general de WCAG-EM: Metodología de evaluación de la conformidad de la accesibilidad de sitios web]](/test-evaluate/conformance/wcag-em/)
 :   Es una sencilla página con información básica para ayudarle a empezar. Le sugerimos leerla antes de ir al [documento completo de WCAG-EM](https://www.w3.org/TR/WCAG-EM/).
