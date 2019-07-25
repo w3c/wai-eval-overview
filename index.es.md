@@ -4,7 +4,7 @@
 title: "Visión general sobre la evaluación de la accesibilidad web"
 nav_title: "Visión general sobre la evaluación"
 
-lang: en
+lang: es
 last_updated: 2019-07-21
 permalink: /test-evaluate/es
 
