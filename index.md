@@ -47,7 +47,7 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 
 ## Introduction {#intro}
 
-{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[+] Show Video: Overview of Evaluation Resources**
+{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}**[+] Show Video: Overview of Evaluation Resources**
 
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
 
@@ -55,7 +55,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 
 ## Initial Checks {#initial}
 
-{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[+] Show Video: Overview of Easy Checks for Web Accessibility**
+{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}**[+] Show Video: Overview of Easy Checks for Web Accessibility**
 
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
 
@@ -64,7 +64,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
 
 ## Tools
 
-{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[+] Show Video: Overview of Tools for Evaluating Web Accessibility**
+{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}**[+] Show Video: Overview of Tools for Evaluating Web Accessibility**
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
 
@@ -76,7 +76,7 @@ Web accessibility evaluation tools are software programs or online services that
 
 ## Conformance Evaluation {#conformance}
 
-{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[+] Show Video: Overview of Accessibility Conformance Evaluation Resources**
+{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}**[+] Show Video: Overview of Accessibility Conformance Evaluation Resources**
 
 Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
 
@@ -85,7 +85,7 @@ Conformance evaluation determines how well web pages or applications meet access
 
 ## Reports
 
-{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[+] Show Video: Overview of Accessibility Conformance Evaluation Resources, including the WCAG-EM Report Tool**
+{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}**[+] Show Video: Overview of Conformance Resources, including Report Tool**
 
 Communicate the results of evaluation clearly, including the scope of the evaluation.
 
@@ -97,17 +97,12 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 
 ## People
 
-{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[-] Hide Video**
+**[-] Hide Video**
 
 {:#film.no-display}
 
 {% include video-player.html
     yt-id="rbiI65Jcz5s"
-    yt-id-ad="L4WLeVc5l5k"
-    captions="/perspective-videos/cc/customizable-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/customizable_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="/perspective-videos/cc/customizable_ad_desc-en.vtt|en|Descriptions"
 %}
 
 Getting the right people and skills involved makes your accessibility evaluations more effective.
