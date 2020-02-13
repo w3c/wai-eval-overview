@@ -47,7 +47,7 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 
 ## Introduction {#intro}
 
-{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[+] Show Video: Overview of Evaluation Resources**
+{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} **[+] Show Video: Overview of Evaluation Resources**
 
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
 
