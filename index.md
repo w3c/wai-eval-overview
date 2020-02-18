@@ -62,11 +62,9 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-Show transcript
+Text Transcript with Description of Visuals
 
 {% include excol.html type="middle" %}
-
-## Text Transcript with Description of Visuals
 
 <table>
   <thead>
