@@ -43,7 +43,88 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 {% include_cached toc.html type="end" %}
 {:/}
 
+{% include excol.html type="all" %}
+
 ## Introduction {#intro}
+
+{% include excol.html type="start" id="video-intro" %}
+
+<img src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" alt="" style="height: 2em; border-radius: .25em; vertical-align: middle;">
+ Video: Overview of Evaluation Resources
+
+{% include excol.html type="middle" %}
+
+{% include video-player.html
+    yt-id="93UgG72os8M"
+    captions="/keyboard-en.vtt|en|Captions"
+    descriptions=""
+%}
+
+{% include excol.html type="start" id="video-intro-transcript" %}
+
+Show transcript
+
+{% include excol.html type="middle" %}
+
+## Text Transcript with Description of Visuals
+
+<table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Accessibility Perspectives: Keyboard Compatibility</td>
+      <td>Web Accessibility Perspectives:<br />
+        Keyboard Compatibility</td>
+    </tr>
+    <tr>
+      <td>Not being able to use your computer because your mouse doesn't work, is frustrating.</td>
+      <td>A man drops his computer mouse off the desk. The computer mouse no longer works.</td>
+    </tr>
+    <tr>
+      <td>Many people use only the keyboard to navigate websites &mdash; either through preference or circumstance.<br /></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Whether it's temporarily limited mobility,</td>
+      <td>A woman with her arm in a sling is typing on a keyboard &mdash; but the website requires the use of a mouse to select the date.</td>
+    </tr>
+    <tr>
+      <td>a permanent physical disability,</td>
+      <td>A man with a wheelchair is using a mouth-stick to type.</td>
+    </tr>
+    <tr>
+      <td>or simply a broken mouse,<br />
+        the result is the same:</td>
+      <td>The man with the wheelchair also cannot use the site.</td>
+    </tr>
+    <tr>
+      <td>Websites and apps need to be operable by keyboard.</td>
+      <td>He switches to a different website that allows typing the date.</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Visit w3.org/WAI/perspectives for more information on Keyboard Compatibility</td>
+      <td>Visit<br />
+        w3.org/WAI/perspectives<br />
+        for more information on<br />
+        Keyboard Compatibility.<br />
+        W3C Web Accessibility Initiative logo</td>
+    </tr>
+  </tbody>
+</table>
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
 
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
 
