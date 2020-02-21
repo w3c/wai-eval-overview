@@ -49,7 +49,7 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 
 <div style="float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
 <video controls width="450">
-    <source src="http://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
+    <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
   <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Evaluation Resources</a>.<p>
@@ -63,7 +63,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 
 <div style="float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
 <video controls width="450">
-    <source src="http://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
+    <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
   <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Easy Checks for Web Accessibility</a>.<p>
@@ -78,7 +78,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
 
 <div style="float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
 <video controls width="450">
-    <source src="http://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
+    <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
   <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Tools for Evaluating Web Accessibility</a>.<p>
@@ -96,7 +96,7 @@ Web accessibility evaluation tools are software programs or online services that
 
 <div style="float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
 <video controls width="450">
-    <source src="http://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
+    <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
   <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Accessibility Conformance Evaluation Resources</a>.<p>
@@ -123,7 +123,7 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 
 <div style="float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
 <video controls width="450">
-    <source src="http://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
+    <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
   <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Involving Users in Web Accessibility</a>.<p>
