@@ -27,7 +27,7 @@ ref: /test-evaluate/
 
 This page links to resources to help evaluate web accessibility. Accessibility evaluation is also called "assessment", "audit", and "testing".
 
-{% include video-link.html class="small inline" title="Web Accessibility Perspectives &mdash; videos and descriptions" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} Videos below introduce the resources, and have more information than is in the text.
+{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} Videos below introduce the resources, and have more information than is in the text.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -47,11 +47,12 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 
 ## Introduction {#intro}
 
-<div "float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
+<div style="float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
 <video controls width="450">
     <source src="http://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
-</video>
+  </video>
+  <em><a href="https://@@">Video in other formats with more accessibility features: Overview of Evaluation Resources.</a></em>
   </div>
   
 <!-- {% include video-link.html class="large inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %} -->
