@@ -52,7 +52,7 @@ This page links to resources to help evaluate web accessibility. Accessibility e
     <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
-  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Evaluation Resources</a>.<p>
+  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Evaluation Resources</a>.</p>
   </div>
 
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
@@ -66,7 +66,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
     <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
-  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Easy Checks for Web Accessibility</a>.<p>
+  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Easy Checks for Web Accessibility</a>.</p>
   </div>
 
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
@@ -81,7 +81,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
     <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
-  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Tools for Evaluating Web Accessibility</a>.<p>
+  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Tools for Evaluating Web Accessibility</a>.</p>
   </div>
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
@@ -99,7 +99,7 @@ Web accessibility evaluation tools are software programs or online services that
     <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
-  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Accessibility Conformance Evaluation Resources</a>.<p>
+  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Accessibility Conformance Evaluation Resources</a>.</p>
   </div>
 
 Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
@@ -126,7 +126,7 @@ Communicate the results of evaluation clearly, including the scope of the evalua
     <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
-  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Involving Users in Web Accessibility</a>.<p>
+  <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Involving Users in Web Accessibility</a>.</p>
   </div>
 
 Getting the right people and skills involved makes your accessibility evaluations more effective.
