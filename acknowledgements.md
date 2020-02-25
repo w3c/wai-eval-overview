@@ -11,7 +11,7 @@ The WAI evaluation resource overview videos were developed by the [Education Out
 Project Leadership
 ------------------
 
--   **Project Lead:** [Shadi Abou-Zahra](https://www.w3.org/People/shadi), W3C WAI
+-   **Editor and Project Lead:** [Shadi Abou-Zahra](https://www.w3.org/People/shadi), W3C WAI
 -   **EOWG Co-Chairs:**
     -   Brent Bakken, Pearson
     -   Sharron Rush, Knowbility
@@ -20,16 +20,13 @@ Project Leadership
 Major Contributors
 ------------------
 
--   @@
+-   [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
+-   [Eric Eggert](https://www.w3.org/People/yatil), W3C WAI
+-   Kevin White, The Scottish Government
+-   Brent Bakken, Pearson
+-   Helen Burge, Deque
 
 Contributing EOWG Participants
 ------------------------------
 
 -   @@
-
-Special Thanks
---------------
-
--   @@
-
-Many thanks also to @@.
