@@ -15,7 +15,7 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: >
- <p>Note about description: The videos on this page do not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcripts with Description of Visuals (“descriptive transcripts”).<br/>If you want examples of videos with audio description, see <a href="https://www.youtube.com/watch?v=21yWr7evHTs&amp;list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-">Web Accessibility Perspectives - Audio Described (YouTube playlist)</a>. Or you can select one of the videos on the <a href="/WAI/perspective-videos/">Web Accessibility Perspectives web page</a> and select “Enable Audio Description”.</p>
+ <p>Note about description: The videos on this page do not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcripts with Description of Visuals (“descriptive transcripts”).</p>
   <p><strong>Date:</strong> Updated 20 September 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
