@@ -35,4 +35,5 @@ Contributing EOWG Participants
 -   Laura Keen, Library of Congress
 -   Lewis Phillips, AT&T
 -   Mark Palmer, The Scottish Government
--   Sharron Rush, Knowbility   
+-   Sharron Rush, Knowbility
+-   Sylvie Duchateau
