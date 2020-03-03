@@ -18,8 +18,8 @@ Project Leadership
 Major Contributors
 ------------------
 
--   [Shawn Lawton Henry](https://www.w3.org/People/shawn), W3C WAI
--   [Eric Eggert](https://www.w3.org/People/yatil), W3C WAI
+-   Shawn Lawton Henry, W3C WAI
+-   Eric Eggert, W3C WAI and Knowbility
 -   Kevin White, The Scottish Government
 -   Brent Bakken, Pearson
 -   Helen Burge, Deque
