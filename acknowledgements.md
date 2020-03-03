@@ -30,13 +30,11 @@ Major Contributors
 Contributing EOWG Participants
 ------------------------------
 
--   Daniel Montalvo
--   Hidde de Vries
--   Howard Kramer
--   Kris Anne Kinney
--   Laura Keen
--   Lewis Phillips
--   Mark Palmer
--   Sharron Rush
-
--   
+-   Daniel Montalvo, W3C WAI
+-   Hidde de Vries, W3C WAI
+-   Howard Kramer, University of Colorado Boulder
+-   Kris Anne Kinney, Educational Testing Service
+-   Laura Keen, Library of Congress
+-   Lewis Phillips, AT&T
+-   Mark Palmer, The Scottish Government
+-   Sharron Rush, Knowbility   
