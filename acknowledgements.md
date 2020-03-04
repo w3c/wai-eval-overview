@@ -37,3 +37,4 @@ Contributing EOWG Participants
 -   Mark Palmer, The Scottish Government
 -   Sharron Rush, Knowbility
 -   Sylvie Duchateau
+-   Vicki Menezes Miller
