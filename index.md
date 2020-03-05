@@ -27,8 +27,6 @@ ref: /test-evaluate/
 
 This page links to resources to help evaluate web accessibility. Accessibility evaluation is also called "assessment", "audit", and "testing".
 
-{% include video-link.html class="small inline" href="/perspective-videos/" src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}Videos below introduce the resources, and have more information than is in the text.
-
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -47,13 +45,43 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 
 ## Introduction {#intro}
 
+{% include excol.html type="all" %}
+
 <div style="float: right; margin-left: 2rem; clear:right; width: 45%; max-width: 450px">
 <video controls width="450">
     <source src="https://media.w3.org/wai/perspective-videos/customizable-text-ad.mp4"
             type="video/mp4">
   </video>
   <p style="font-size:small">This video is available in other formats with more accessibility features: <a href="https://@@">Video Overview of Evaluation Resources</a>.</p>
+
+{% include excol.html type="start" id="video-intro-transcript" %}
+
+Text Transcript with Description of Visuals
   </div>
+
+{% include excol.html type="middle" %}
+
+<table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Accessibility Perspectives: Keyboard Compatibility</td>
+      <td>Web Accessibility Perspectives:<br />
+        Keyboard Compatibility</td>
+    </tr>
+    <tr>
+      <td>Not being able to use your computer because your mouse doesn't work, is frustrating.</td>
+      <td>A man drops his computer mouse off the desk. The computer mouse no longer works.</td>
+    </tr>
+  </tbody>
+</table>
+
+{% include excol.html type="end" %}
 
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
 
