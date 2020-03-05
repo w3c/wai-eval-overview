@@ -1,0 +1,29 @@
+<style>
+  .video-card {
+    max-width: 100%;
+  }
+    .video-card p {
+      font-size: small;
+    }
+    .video-card video {
+      max-width: 100%;
+    }
+    .video-card ~ h2,
+    .video-card ~ aside {
+      clear: right;
+    }
+
+@media (min-width:50em) {
+  .video-card {
+    float: right;
+    max-width: 40%;
+  }
+}
+</style>
+
+<div class="video-card">
+  <video controls>
+    <source src="{{ include.video-url }}" type="video/mp4">
+  </video>
+   <p>This video is available in other formats with more accessibility features: <a href="{{ include.accessible-version }}">{{ include.accessible-version-label }}</a>.</p>
+</div>

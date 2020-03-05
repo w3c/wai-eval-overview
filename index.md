@@ -132,6 +132,13 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 
 ## Initial Checks {#initial}
 
+{% include video-card.html
+    video-url="http://media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
+    captions="http://media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
+    accessible-version="/perspective-videos/cc/keyboard_ad_desc-en.vtt|en|Descriptions"
+    accessible-version-label="Video Overview of Easy Checks for Web Accessibility"
+%}
+
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
 
 [Easy Checks — A First Review of Web Accessibility](/test-evaluate/preliminary/)
