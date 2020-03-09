@@ -33,7 +33,6 @@ Contributing EOWG Participants
 -   Hidde de Vries, W3C WAI
 -   Howard Kramer, University of Colorado Boulder
 -   Kris Anne Kinney, Educational Testing Service
--   Laura Keen, Library of Congress
 -   Lewis Phillips, AT&T
 -   Mark Palmer, The Scottish Government
 -   Sharron Rush, Knowbility
