@@ -23,6 +23,7 @@ Major Contributors
 -   Kevin White, The Scottish Government
 -   Brent Bakken, Pearson
 -   Helen Burge, Deque
+-   Laura Keen, Library of Congress
 -   Estel·la Oncins Noguer
 
 Contributing EOWG Participants
