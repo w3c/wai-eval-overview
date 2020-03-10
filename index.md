@@ -52,10 +52,9 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card">
   {% include video-player.html
       yt-id="WkWUpKZc9A4"
-      captions="//media.w3.org/wai/evaluation-intros/evaluating-resources-overview-cc.srt"
       descriptions=""
   %}
-  <p>See also: <a href="#transcript">Text transcript</a></p>
+  <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
 </div>
 
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
@@ -138,10 +137,16 @@ Getting the right people and skills involved makes your accessibility evaluation
 
 Specifications for writing accessibility test rules (ACT Rules Format) and expressing test results (EARL) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
 
+<hr>
+
+
+##  Alternatives for Video Introduction - Resources Overview {#alternatives}
+
+
+<p><a href="http://media.w3.org/wai/evaluation-intros/@@.mp4">Video Introduction - Resources Overview on a W3C server (file format: MP4, file size: 28MB)</a></p>
+
 {% include excol.html type="start" id="video-intro-transcript" %}
-
-## Text Transcript with Description of Visuals for Introduction Video {#transcript}
-
+###  Text Transcript with Description of Visuals for Video Introduction - Resources Overview
 {% include excol.html type="middle" %}
 
 <table aria-labelledby="transcript">
