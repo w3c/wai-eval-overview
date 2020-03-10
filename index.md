@@ -5,7 +5,7 @@ title: "Evaluating Web Accessibility Overview"
 nav_title: "Evaluation Overview"
 
 lang: en
-last_updated: 2018-09-20
+last_updated: 2020-03-10
 permalink: /test-evaluate/
 
 github: 
@@ -15,8 +15,9 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: >
-  <p><strong>Date:</strong> Updated 20 September 2018.</p>
+  <p><strong>Date:</strong> Updated 10 March 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Videos developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="@@">Acknowledgments</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="//www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /test-evaluate/
 ---
