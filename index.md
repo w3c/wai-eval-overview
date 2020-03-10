@@ -146,7 +146,7 @@ Specifications for writing accessibility test rules (ACT Rules Format) and expre
 <p><a href="http://media.w3.org/wai/evaluation-intros/@@.mp4">Video Introduction - Resources Overview on a W3C server (file format: MP4, file size: 28MB)</a></p>
 
 {% include excol.html type="start" id="video-intro-transcript" %}
-###  Text Transcript with Description of Visuals for Video Introduction - Resources Overview
+###  Text Transcript with Description of Visuals for Video Introduction - Resources Overview {#transcript}
 {% include excol.html type="middle" %}
 
 <table aria-labelledby="transcript">
