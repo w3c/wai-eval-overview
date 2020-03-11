@@ -4,3 +4,4 @@
 
 Current Preview: https://wai-eval-overview.netlify.com/
 
+WAI Website Manual: https://wai-website-theme.netlify.com/overview/ 
