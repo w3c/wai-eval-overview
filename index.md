@@ -52,7 +52,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card">
   {% include video-player.html
       yt-id="WkWUpKZc9A4"
-      descriptions=""
+      captions="http://www.w3.org/WAI/perspective-videos/cc/keyboard-en.vtt"
   %}
   <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
 </div>
@@ -147,7 +147,7 @@ Specifications for writing accessibility test rules (ACT Rules Format) and expre
 {% include excol.html type="middle" %}
 
 
-<p><a href="http://media.w3.org/wai/evaluation-intros/@@.mp4">Video Introduction - Resources Overview on a W3C server (file format: MP4, file size: 28MB)</a></p>
+<p><a href="//media.w3.org/wai/evaluation-intros/evaluating-resources-overview.mp4">Video Introduction - Resources Overview on a W3C server (file format: MP4, file size: 45MB)</a></p>
 
 ###  Text Transcript with Description of Visuals for Video Introduction - Resources Overview {#transcript}
 
