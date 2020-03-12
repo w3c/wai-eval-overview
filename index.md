@@ -52,7 +52,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card">
   {% include video-player.html
       yt-id="WkWUpKZc9A4"
-      captions="http://www.w3.org/WAI/perspective-videos/cc/keyboard-en.vtt"
+      captions="https://www.w3.org/WAI/perspective-videos/cc/keyboard-en.vtt"
   %}
   <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
 </div>
