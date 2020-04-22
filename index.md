@@ -32,6 +32,7 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 {% include box.html type="end" %}
 {:/}
 
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
