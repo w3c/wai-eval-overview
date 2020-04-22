@@ -5,7 +5,7 @@ title: "Evaluating Web Accessibility Overview"
 nav_title: "Evaluation Overview"
 
 lang: en
-last_updated: 2018-09-20
+last_updated: 2020-03-10
 permalink: /test-evaluate/
 
 github: 
@@ -15,9 +15,10 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: >
-  <p><strong>Date:</strong> Updated 20 September 2018.</p>
+  <p>Note about video description: The videos on this page do not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
+  <p><strong>Date:</strong> Updated 28 April 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Videos developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ref: /test-evaluate/
 ---
 
@@ -45,11 +46,29 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 
 ## Introduction {#intro}
 
+{% comment %}
+This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
+{% endcomment %}
+<div class="video-card">
+  {% include video-player.html
+      yt-id="C4GIqWeywiI"
+      captions="//media.w3.org/wai/evaluation-intros/evaluating-resources-overview-cc.vtt"
+  %}
+  <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
+</div>
+
 When developing or redesigning a website or web application, evaluate accessibility early and throughout the development process to identify accessibility problems early, when it is easier to address them.
 
 There are evaluation tools that help with evaluation. However, no tool alone can determine if a site meets accessibility standards. Knowledgeable human evaluation is required to determine if a site is accessible.
 
 ## Initial Checks {#initial}
+
+{% include video-card.html
+    video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
+    captions="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility-cc.vtt"
+    accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
+    accessible-version-label="Video: Easy Checks Overview"
+%}
 
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
 
@@ -57,6 +76,13 @@ Even if you don’t know anything about accessibility and you don’t have a rob
 :   Provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
 
 ## Tools
+
+{% include video-card.html
+    video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
+    captions="//media.w3.org/wai/evaluation-intros/tools-for-evaluating-cc.vtt"
+    accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
+    accessible-version-label="Video: Evaluation Tools Overview"
+%}
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
 
@@ -67,6 +93,13 @@ Web accessibility evaluation tools are software programs or online services that
 :   Provides guidance on choosing tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.
 
 ## Conformance Evaluation {#conformance}
+
+{% include video-card.html
+    video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
+    captions="//media.w3.org/wai/evaluation-intros/conformance-evaluation-cc.vtt"
+    accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
+    accessible-version-label="Video: Conformance Evaluation Overview"
+%}
 
 Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
 
@@ -85,6 +118,13 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 
 ## People
 
+{% include video-card.html
+    video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
+    captions="//media.w3.org/wai/evaluation-intros/involving-users-cc.vtt"
+    accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
+    accessible-version-label="Video: Involving Users in Web Accessibility Overview"
+%}
+
 Getting the right people and skills involved makes your accessibility evaluations more effective.
 
 [[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/)
@@ -96,3 +136,84 @@ Getting the right people and skills involved makes your accessibility evaluation
 ## Standards
 
 Specifications for writing accessibility test rules (ACT Rules Format) and expressing test results (EARL) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
+
+<hr>
+
+
+{% include excol.html type="start" id="video-intro-transcript" %}
+
+##  Alternatives for Video Introduction - Resources Overview {#alternatives}
+
+{% include excol.html type="middle" %}
+
+_This video is also available on a W3C server: [Video: Evaluating Web Accessibility - Resources Overview (file format: MP4, file size: 45MB)](http://media.w3.org/wai/evaluation-intros/evaluating-resources-overview.mp4)._
+
+###  Text Transcript with Description of Visuals for Video Introduction - Resources Overview {#transcript}
+
+<table aria-labelledby="transcript">
+  <tbody>
+    <tr>
+      <th>Audio</th>
+      <th>Visual</th>
+    </tr>
+    <tr>
+      <td>Evaluating web accessibility: resources overview </td>
+      <td>Evaluating web accessibility: resources overview.</td>
+    </tr>
+    <tr>
+       <td>Evaluation helps you ensure that your websites and applications meet accessibility requirements. </td>
+      <td>A magnifying glass with the word evaluation on a computer screen with a website on it.</td>
+    </tr>
+    <tr>
+      <td>Ideally you evaluate regularly throughout the design and development process. This way you find errors early and avoid costly repairs later in the process. </td>
+      <td>The web page components rearrange on the page until following a good design.</td>
+    </tr>
+    <tr>
+      <td>The W3C Web Accessibility Initiative, W-A-I, or WAI, provides free resources to help you with your evaluation. </td>
+      <td>W3C and Web Accessibility Initiative (WAI) logos.</td>
+    </tr>
+    <tr>
+      <td>"Easy Checks - A First Review of Web Accessibility" explains how you can do some checks yourself. </td>
+      <td>"Easy Checks - A First Review of Web Accessibility". A person in front of the computer. A light bulb appears.</td>
+    </tr>
+    <tr>
+      <td>Even if you are new to web accessibility and not technical, these checks give you a rough idea of the accessibility of any web page. </td>
+      <td>A document of checks. Each check is highlighted to show fails or passes.</td>
+    </tr>
+    <tr>
+      <td>WAI also maintains a "Web Accessibility Evaluation Tools List" that you can filter. </td>
+      <td>Web Accessibility Evaluation Tools List. A list of tools displayed as icons..</td>
+    </tr>
+    <tr>
+      <td>"Selecting Web Accessibility Evaluation Tools" explains what tools can and cannot do. </td>
+      <td>Selecting Web Accessibility Evaluation Tools. The tools icons displayed in a computer.</td>
+    </tr>
+    <tr>
+      <td>For more experienced evaluators, WAI provides "WCAG-EM", the "Website Accessibility Conformance Evaluation Methodology". </td>
+      <td>WCAG-EM. Website Accessibility Conformance Evaluation Methodology. A person in front of a computer. A simplified report is displayed. A person in front of a computer, and the screen showing a simplified report.</td>
+    </tr>
+    <tr>
+      <td>The "WCAG-EM Report Tool" helps you record the findings as you follow the methodology. </td>
+      <td>WCAG-EM Report Tool. A progress bar shows the various stages of the evaluation methodology.</td>
+    </tr>
+    <tr>
+      <td>To help you better understand how different users experience your website and applications, WAI provides guidance in "Involving Users in Web Projects for Better, Easier Accessibility" and Involving users in Evaluating Web Accessibility.</td>
+      <td>The screen splits into 12 fields each with a different user in front of a computer. Involving Users in Web Projects for Better, Easier Accessibility and Involving users in Evaluating Web Accessibility</td>
+    </tr>
+    <tr>
+      <td>With all these resources, you can learn how to check your website for accessibility and prioritize the issues you need to address first. </td>
+      <td>A magnifying glass with the words check for accessibility is replaced with a list of issues.</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: essential for some, useful for all. </td>
+      <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+    </tr>
+    <tr>
+      <td>For resources on evaluating web accessibility, visit w3.o-r-g/W-A-I/evaluation. </td>
+      <td>Evaluation resources, W3C and Web Accessibility Initiative (WAI) logos.</td>
+    </tr>
+  </tbody>
+</table>
+
+{% include excol.html type="end" %}
+
