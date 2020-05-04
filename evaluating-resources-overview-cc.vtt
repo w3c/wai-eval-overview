@@ -1,0 +1,99 @@
+WEBVTT
+
+1
+00:00:00.840 --> 00:00:05.980
+Evaluating web accessibility: resources overview.
+
+2
+00:00:05.980 --> 00:00:08.500
+Evaluation helps you ensure that your websites
+
+3
+00:00:08.500 --> 00:00:12.820
+and applications meet accessibility requirements.
+
+4
+00:00:12.820 --> 00:00:17.000
+Ideally you evaluate regularly throughout
+the design and development process.
+
+5
+00:00:17.000 --> 00:00:23.730
+This way you find errors early and avoid costly
+repairs later in the process.
+
+6
+00:00:23.730 --> 00:00:28.060
+The W3C Web Accessibility Initiative, W-A-I, or WAI,
+
+7
+00:00:28.060 --> 00:00:34.080
+provides free resources to help you with your evaluation.
+
+8
+00:00:34.080 --> 00:00:41.640
+"Easy Checks - A First Review of Web Accessibility"
+explains how you can do some checks yourself.
+
+9
+00:00:41.649 --> 00:00:44.900
+Even if you are new to web accessibility and
+not technical,
+
+10
+00:00:44.900 --> 00:00:50.620
+these checks give you a rough idea of the accessibility of any web page.
+
+11
+00:00:50.620 --> 00:00:57.280
+WAI also maintains a "Web Accessibility Evaluation
+Tools List" that you can filter.
+
+12
+00:00:57.280 --> 00:01:04.820
+"Selecting Web Accessibility Evaluation Tools"
+explains what tools can and cannot do.
+
+13
+00:01:04.820 --> 00:01:10.820
+For more experienced evaluators, WAI provides
+"WCAG-EM",
+
+14
+00:01:10.820 --> 00:01:16.540
+the "Website Accessibility Conformance Evaluation Methodology".
+
+15
+00:01:16.540 --> 00:01:23.140
+The "WCAG-EM Report Tool" helps you record
+the findings as you follow the methodology.
+
+16
+00:01:23.140 --> 00:01:27.740
+To help you better understand how different
+users experience your website and applications,
+
+17
+00:01:27.740 --> 00:01:34.920
+WAI provides guidance in "Involving Users
+in Web Projects for Better, Easier Accessibility"
+
+18
+00:01:34.920 --> 00:01:40.480
+and "Involving Users in Evaluating Web Accessibility".
+
+19
+00:01:40.500 --> 00:01:45.210
+With all these resources, you can learn how to check your website for accessibility and
+
+20
+00:01:45.210 --> 00:01:50.299
+prioritize the issues you need to address first.
+
+21
+00:01:50.300 --> 00:01:55.160
+Web accessibility: essential for some, useful for all.
+
+22
+00:01:55.160 --> 00:02:06.400
+For resources on evaluating web accessibility visit w3.org/WAI/evaluation

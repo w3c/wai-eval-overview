@@ -53,7 +53,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card">
   {% include video-player.html
       yt-id="C4GIqWeywiI"
-      captions="//media.w3.org/wai/evaluation-intros/evaluating-resources-overview-cc.vtt"
+      captions="evaluating-resources-overview-cc.vtt"
   %}
   <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
 </div>
@@ -66,7 +66,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
-    captions="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility-cc.vtt"
+    captions="evaluating-resources-overview-cc.vtt"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
 %}
@@ -80,7 +80,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
-    captions="//media.w3.org/wai/evaluation-intros/tools-for-evaluating-cc.vtt"
+    captions="tools-for-evaluating-cc.vtt"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Video: Evaluation Tools Overview"
 %}
@@ -97,7 +97,7 @@ Web accessibility evaluation tools are software programs or online services that
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
-    captions="//media.w3.org/wai/evaluation-intros/conformance-evaluation-cc.vtt"
+    captions="conformance-evaluation-cc.vtt"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Video: Conformance Evaluation Overview"
 %}
@@ -121,7 +121,7 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
-    captions="//media.w3.org/wai/evaluation-intros/involving-users-cc.vtt"
+    captions="involving-users-cc.vtt"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Video: Involving Users in Web Accessibility Overview"
 %}
