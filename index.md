@@ -67,6 +67,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
     captions="evaluating-resources-overview-cc.vtt|en|Captions"
+    poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
 %}
@@ -81,6 +82,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
     captions="tools-for-evaluating-cc.vtt|en|Captions"
+    poster="video-thumb-tools.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Video: Evaluation Tools Overview"
 %}
@@ -98,6 +100,7 @@ Web accessibility evaluation tools are software programs or online services that
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
     captions="conformance-evaluation-cc.vtt|en|Captions"
+    poster="video-thumb-conformance.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Video: Conformance Evaluation Overview"
 %}
@@ -122,6 +125,7 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
     captions="involving-users-cc.vtt|en|Captions"
+    poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Video: Involving Users in Web Accessibility Overview"
 %}
