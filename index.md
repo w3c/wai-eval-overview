@@ -69,7 +69,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
     captions="evaluating-resources-overview-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
-    poster="{{path}}video-thumb-resources-overview.png"
+    poster="video-thumb-resources-overview.png"
 %}
 
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
@@ -84,7 +84,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
     captions="tools-for-evaluating-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Video: Evaluation Tools Overview"
-    poster="{{path}}video-thumb-conformance.png"
+    poster="video-thumb-conformance.png"
 %}
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
@@ -102,6 +102,7 @@ Web accessibility evaluation tools are software programs or online services that
     captions="conformance-evaluation-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Video: Conformance Evaluation Overview"
+    poster="video-thumb-conformance.png"
 %}
 
 Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
@@ -126,6 +127,7 @@ Communicate the results of evaluation clearly, including the scope of the evalua
     captions="involving-users-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Video: Involving Users in Web Accessibility Overview"
+    poster="video-thumb-involving-users.png"
 %}
 
 Getting the right people and skills involved makes your accessibility evaluations more effective.
