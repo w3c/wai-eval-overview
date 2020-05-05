@@ -69,7 +69,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
     captions="evaluating-resources-overview-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
-    poster="video-thumb-resources-overview.png"
+    poster="/content-images/wai-eval-overview/video-thumb-easy-checks.png"
 %}
 
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
