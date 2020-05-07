@@ -53,7 +53,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card">
   {% include video-player.html
       yt-id="C4GIqWeywiI"
-      captions="evaluating-resources-overview-cc.vtt|en|Captions"
+      captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|Captions"
   %}
   <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
 </div>
@@ -70,6 +70,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
+    poster="/content-images/wai-eval-overview/video-thumb-easy-checks.png"
 %}
 
 Even if you don’t know anything about accessibility and you don’t have a robust accessibility tool, you can check some aspects of accessibility.
@@ -81,10 +82,10 @@ Even if you don’t know anything about accessibility and you don’t have a rob
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
-    captions="tools-for-evaluating-cc.vtt|en|Captions"
-    poster="video-thumb-tools.png"
+    captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Video: Evaluation Tools Overview"
+    poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
 %}
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
@@ -99,10 +100,10 @@ Web accessibility evaluation tools are software programs or online services that
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
-    captions="conformance-evaluation-cc.vtt|en|Captions"
-    poster="video-thumb-conformance.png"
+    captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Video: Conformance Evaluation Overview"
+    poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
 %}
 
 Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
@@ -124,10 +125,10 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
-    captions="involving-users-cc.vtt|en|Captions"
-    poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
+    captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en|Captions"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Video: Involving Users in Web Accessibility Overview"
+    poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
 %}
 
 Getting the right people and skills involved makes your accessibility evaluations more effective.
