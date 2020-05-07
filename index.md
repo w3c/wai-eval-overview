@@ -67,6 +67,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
     captions="evaluating-resources-overview-cc.vtt|en|Captions"
+    poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
     poster="/content-images/wai-eval-overview/video-thumb-easy-checks.png"
