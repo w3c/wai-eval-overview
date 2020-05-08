@@ -85,7 +85,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
     captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Video: Evaluation Tools Overview"
-    poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
+    poster="/content-images/wai-eval-overview/video-thumb-tools.png"
 %}
 
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
