@@ -10,10 +10,3 @@ publish = "_site"
 [[redirects]]
   from = "/"
   to = "/test-evaluate/"
-
-[[plugins]]
-package = "netlify-plugin-a11y"
-
-  [plugins.inputs]
-  
-  checkPaths = ['/test-evaluate']
