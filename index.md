@@ -96,7 +96,7 @@ Web accessibility evaluation tools are software programs or online services that
 [[Selecting Web Accessibility Evaluation Tools]](/test-evaluate/tools/selecting/)
 :   Provides guidance on choosing tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.
 
-## Conformance Evaluation {#conformance}
+## Conformance Evaluation and Reports {#conformance}
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
@@ -110,8 +110,6 @@ Conformance evaluation determines how well web pages or applications meet access
 
 [[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/)
 :   A short page with basic information to get you started. We suggest you read it before going to the [full WCAG-EM document](https://www.w3.org/TR/WCAG-EM/).
-
-## Reports
 
 Communicate the results of evaluation clearly, including the scope of the evaluation.
 
