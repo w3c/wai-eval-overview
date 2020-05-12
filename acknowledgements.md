@@ -11,7 +11,7 @@ The WAI evaluation resource overview videos were developed by the [Education Out
 Permission to Use
 -----------------
 
-<p><svg focusable="false" aria-hidden="true" class="icon-creative-commons "><use xlink:href="/WAI/assets/images/icons.svg#icon-creative-commons"></use></svg> The videos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The videos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 
 
 Project Leadership
