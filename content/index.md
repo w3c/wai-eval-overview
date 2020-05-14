@@ -8,9 +8,9 @@ lang: en
 last_updated: 2020-03-10
 permalink: /test-evaluate/
 
-github: 
+github:
   repository: w3c/wai-eval-overview
-  path: index.md
+  path: content/index.md
 
 feedbackmail: wai@w3.org
 class: tight-page
