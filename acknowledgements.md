@@ -44,3 +44,10 @@ Contributing EOWG Participants
 -   Sharron Rush, Knowbility
 -   Sylvie Duchateau
 -   Vicki Menezes Miller
+
+
+Website Integration
+-------------------
+
+-   Hidde de Vries, W3C WAI
+-   Shawn Lawton Henry, W3C WAI
