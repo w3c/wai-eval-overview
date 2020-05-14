@@ -39,6 +39,7 @@ Contributing EOWG Participants
 ------------------------------
 
 -   Daniel Montalvo, W3C WAI
+-   Eric Eggert, W3C WAI and Knowbility
 -   Hidde de Vries, W3C WAI
 -   Howard Kramer, University of Colorado Boulder
 -   Kris Anne Kinney, Educational Testing Service
@@ -47,7 +48,6 @@ Contributing EOWG Participants
 -   Sharron Rush, Knowbility
 -   Sylvie Duchateau
 -   Vicki Menezes Miller
--   Eric Eggert, W3C WAI and Knowbility
 
 
 Website Integration
