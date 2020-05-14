@@ -24,7 +24,6 @@ Major Contributors
 ------------------
 
 -   Shawn Lawton Henry, W3C WAI
--   Eric Eggert, W3C WAI and Knowbility
 -   Kevin White, The Scottish Government
 -   Brent Bakken, Pearson
 -   Helen Burge, Deque
@@ -43,6 +42,7 @@ Contributing EOWG Participants
 -   Sharron Rush, Knowbility
 -   Sylvie Duchateau
 -   Vicki Menezes Miller
+-   Eric Eggert, W3C WAI and Knowbility
 
 
 Website Integration
