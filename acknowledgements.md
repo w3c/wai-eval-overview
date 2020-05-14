@@ -6,13 +6,12 @@ title: Acknowledgements – WAI Evaluation Resource Overview Videos
 nosidenav: true
 ---
 
-The WAI evaluation resource overview videos were developed by the [Education Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/) with support from the [WAI-Guide project]( https://www.w3.org/WAI/about/projects/wai-guide/) funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).
+The WAI [evaluation resource overview videos](https://www.w3.org/WAI/teach-advocate/) were developed by the [Education Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/) with support from the [WAI-Guide project](https://www.w3.org/WAI/about/projects/wai-guide/) funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245).
 
 Permission to Use
 -----------------
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The videos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
-
 
 Project Leadership
 ------------------
