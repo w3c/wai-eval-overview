@@ -121,6 +121,9 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 [[Template for Web Accessibility Evaluation Reports]](/test-evaluate/report-template/)
 :   Suggests information to include in a report.
 
+[ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
+:   Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.
+
 ## People
 
 {% include video-card.html
