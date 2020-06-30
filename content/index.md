@@ -108,12 +108,10 @@ Web accessibility evaluation tools are software programs or online services that
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
 %}
 
-Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
+Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG). 
 
 [[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/)
 :   A short page with basic information to get you started. We suggest you read it before going to the [full WCAG-EM document](https://www.w3.org/TR/WCAG-EM/).
-
-Communicate the results of evaluation clearly, including the scope of the evaluation.
 
 [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/)
 :   Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input you provide.
@@ -123,6 +121,8 @@ Communicate the results of evaluation clearly, including the scope of the evalua
 
 [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
 :   Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.
+
+Communicate the results of evaluation clearly, including the scope of the evaluation.
 
 ## People
 
