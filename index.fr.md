@@ -79,7 +79,7 @@ Il existe des outils qui aident à l'évaluation. Cependant, aucun outil n'est s
 
 Même si vous ne connaissez rien à propos de l'accessibilité et que vous ne disposez pas d'un outil d'accessibilité performant, vous pouvez vérifier certains aspects d'accessibilité.
 
-[Vérifications faciles — Un premier aperçu de l'accessibilité Web](/test-evaluate/preliminary/)(en anglais)
+[Vérifications faciles — Un premier aperçu de l'accessibilité Web](/test-evaluate/preliminary/)
 :   Fournit des recommandations étape par étape et des explications brèves pour vérifier certains aspects d'accessibilité.
 
 ## Outils
@@ -94,7 +94,7 @@ Même si vous ne connaissez rien à propos de l'accessibilité et que vous ne di
 
 Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des services en ligne qui aident à déterminer si le contenu Web répond aux standards de l'accessibilité Web.
 
-[Liste des outils d'évaluation de l'accessibilité Web](https://www.w3.org/WAI/ER/tools/)(en anglais)
+[Liste des outils d'évaluation de l'accessibilité Web](https://www.w3.org/WAI/ER/tools/)
 :   Inclut des informations sur plus de 100 outils. Vous pouvez utiliser les filtres pour réduire la liste aux types d'outils qui vous intéressent.
 [[Choisir des outils d'évaluation de l'accessibilité Web]](/test-evaluate/tools/selecting/)
 :   Fournit des conseils pour choisir des outils. La page décrit les caractéristiques et la fonctionnalité de différents types d'outils d'évaluation, et donne des critères à prendre en considération en fonction de votre situation.
@@ -111,17 +111,17 @@ Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des servi
 
 L'évaluation de la conformité détermine dans quelle mesure les pages ou les applications Web sont conformes aux standards d'accessibilité. La méthodologie d'évaluation de la conformité à l'accessibilité Web du W3C (WCAG-EM) constitue une approche pour déterminer la conformité aux Règles pour l'accessibilité des contenus Web (WCAG).
 
-[[Vue d'ensemble de WCAG-EM : méthodologie de l'évaluation de la conformité à l'accessibilité Web]](/test-evaluate/conformance/wcag-em/) (en anglais)
-:   Une courte page contenant des informations de base pour démarrer. Nous vous suggérons de la lire avant de lire le [document WCAG-EM](https://www.w3.org/TR/WCAG-EM/) (en anglais).
+[[Vue d'ensemble de WCAG-EM : méthodologie de l'évaluation de la conformité à l'accessibilité Web]](/test-evaluate/conformance/wcag-em/) 
+:   Une courte page contenant des informations de base pour démarrer. Nous vous suggérons de la lire avant de lire le [document WCAG-EM](https://www.w3.org/TR/WCAG-EM/)
 
-[L'outil de reporting de WCAG-EM : générateur de rapport d'évaluation de l'accessibilité Web](https://www.w3.org/WAI/eval/report-tool/#/) (en anglais)
+[L'outil de reporting de WCAG-EM : générateur de rapport d'évaluation de l'accessibilité Web](https://www.w3.org/WAI/eval/report-tool/#/) 
 :   Vous aide à générer des rapports d'évaluation selon le WCAG-EM. L'outil ne fait pas la vérification à votre place. Il vous aide à suivre les étapes du WCAG-EM et génère un rapport à partir des données fournies.
 
 [[Modèle pour les rapports d'évaluation de l'accessibilité Web]](/test-evaluate/report-template/)
 :   Propose des informations à inclure dans un rapport.
 
-[Outil de reporting ATAG](https://www.w3.org/WAI/atag/report-tool/) (en anglais)
-:   Vous aide à générer un rapport pour évaluer dans quelle mesure un outil répond aux critères des Règles d'accessibilité pour les outils d'édition([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)) (en anglais). Les outils d'édition sont des logiciels et des services utilisés pour créer du contenu Web, tels que les systèmes de gestion de contenu (SGC) et les éditeurs HTML WYSIWYG.
+[Outil de reporting ATAG](https://www.w3.org/WAI/atag/report-tool/) 
+:   Vous aide à générer un rapport pour évaluer dans quelle mesure un outil répond aux critères des Règles d'accessibilité pour les outils d'édition([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/). Les outils d'édition sont des logiciels et des services utilisés pour créer du contenu Web, tels que les systèmes de gestion de contenu (SGC) et les éditeurs HTML WYSIWYG.
 
 Communique clairement les résultats de l'évaluation, y compris les objectifs de l'évaluation.
 
@@ -140,12 +140,12 @@ Impliquer les personnes et les compétences adéquates rendra votre évaluation 
 [[Impliquer des utilisateurs dans l'évaluation de l'accessibilité Web]](/test-evaluate/involving-users/)
 :   Donne des conseils pour inclure des personnes en situation de handicap ("utilisateurs") dans l'évaluation tout au long du développement du projet.
 
-[Une expertise combinée pour évaluer l'accessibilité Web](/test-evaluate/combined-expertise/) (en anglais)
+[Une expertise combinée pour évaluer l'accessibilité Web](/test-evaluate/combined-expertise/) 
 :   Présente différentes aptitudes et considérations pour une vérification collaborative.
 
 ## Standards
 
-Des spécificités liées à l'écriture de règles de test de l'accessibilité (ACT Rules Format) et à l'expression des résultats de test (EARL) sont introduites dans la [Vue d'ensemble des standards d'évaluation](/standards-guidelines/evaluation/) (en anglais).
+Des spécificités liées à l'écriture de règles de test de l'accessibilité (ACT Rules Format) et à l'expression des résultats de test (EARL) sont introduites dans la [Vue d'ensemble des standards d'évaluation](/standards-guidelines/evaluation/) 
 
 <hr>
 
