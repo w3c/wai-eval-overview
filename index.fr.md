@@ -122,11 +122,11 @@ L'évaluation de la conformité détermine dans quelle mesure les pages ou les a
 :   Propose des informations à inclure dans un rapport.
 
 [Outil de reporting ATAG](https://www.w3.org/WAI/atag/report-tool/) 
-:   Vous aide à générer un rapport pour évaluer dans quelle mesure un outil répond aux critères des Règles d'accessibilité pour les outils d'édition([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/). Les outils d'édition sont des logiciels et des services utilisés pour créer du contenu Web, tels que les systèmes de gestion de contenu (SGC) et les éditeurs HTML WYSIWYG.
+:   Vous aide à générer un rapport pour évaluer dans quelle mesure un outil répond aux critères des Règles d'accessibilité pour les outils d'édition([ATAG]) (https://www.w3.org/WAI/standards-guidelines/atag/). Les outils d'édition sont des logiciels et des services utilisés pour créer du contenu Web, tels que les systèmes de gestion de contenu (SGC) et les éditeurs HTML WYSIWYG.
 
 Communique clairement les résultats de l'évaluation, y compris les objectifs de l'évaluation.
 
-## Ressources humaines
+## Personnes
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
