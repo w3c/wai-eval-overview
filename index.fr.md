@@ -8,7 +8,8 @@ lang: fr
 last_updated: 2020-10-19
 permalink: /test-evaluate/fr
 
-translator: Sofia Ahmed
+translators: 
+-name: Sofia Ahmed
 
 github:
   repository: w3c/wai-eval-overview
@@ -20,7 +21,7 @@ footer: >
   <p>Note à propos de l'audiodescription : les vidéos présentes sur cette page n'incluent pas d'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus gênante qu'utile pour la plupart des utilisateurs, y compris les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription avec la description des images ("transcription descritive").</p>
   <p><strong>Date :</strong> Mise à jour 28 avril 2020.</p>
   <p><strong>Auteur :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Vidéos développées par l'<em>Education and Outreach Working Group</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) sous le programme Horizon 2020 (convention de subvention 822245) <a href="./acknowledgements/">Remerciements</a>.</p>
+  <p>Vidéos développées par le<em>Groupe de travail Éducation et Promotion</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) sous le programme Horizon 2020 (convention de subvention 822245) <a href="./acknowledgements/">Remerciements</a>.</p>
   <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> Les vidéos sont autorisées sous une <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">license publique Creative Commons Attribution 4.0 International</a>.</p>
 ref: /test-evaluate/
 
@@ -59,7 +60,7 @@ This abuses the video-card component and tries to make it work with an embedded 
       yt-id="C4GIqWeywiI"
       captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
   %}
-  <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
+  <p><a href="#alternatives">Introduction pour les alternatives aux vidéos - Vue d'ensemble des ressources</a></p>
 </div>
 
 Lors du développement ou de la modification d'un site ou d'une application Web, évaluez l'accessibilité dès le début et tout le long du processus de développement pour identifier rapidement les problèmes d'accessibilité car il est plus facile de les corriger à ce stade.
@@ -73,7 +74,7 @@ Il existe des outils qui aident à l'évaluation. Cependant, aucun outil n'est s
     captions="/content-images/wai-eval-overview/|en|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
-    accessible-version-label="Video: Easy Checks Overview"
+    accessible-version-label="Vidéo : vue d'ensemble des vérifications faciles"
     poster="/content-images/wai-eval-overview/video-thumb-easy-checks.png"
 %}
 
@@ -88,7 +89,7 @@ Même si vous ne connaissez rien à propos de l'accessibilité et que vous ne di
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
     captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
-    accessible-version-label="Video: Evaluation Tools Overview"
+    accessible-version-label="Vidéo : Vue d'ensemble des outils d'évaluation"
     poster="/content-images/wai-eval-overview/video-thumb-tools.png"
 %}
 
@@ -105,7 +106,7 @@ Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des servi
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
     captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
-    accessible-version-label="Video: Conformance Evaluation Overview"
+    accessible-version-label="Vidéo : vue d'ensemble de la conformité de l'évaluation"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
 %}
 
@@ -131,7 +132,7 @@ Communique clairement les résultats de l'évaluation, y compris les objectifs d
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
     captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
-    accessible-version-label="Video: Involving Users in Web Accessibility Overview"
+    accessible-version-label="Vidéo : vue d'ensemble : impliquer des utilisateurs dans l'accessibilité Web"
     poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
 %}
 
@@ -160,7 +161,7 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo: Evaluation d
 
 ###  Transcription avec audiodescription pour la vidéo d'introduction - Vue d'ensemble des ressources {#transcript}
 
-<table aria-labelledby="transcript">
+<table aria-labelledby="transcription">
   <tbody>
     <tr>
       <th>Audio</th>
