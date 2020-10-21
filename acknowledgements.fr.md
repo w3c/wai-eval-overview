@@ -5,7 +5,8 @@ ref: /test-evaluate/acknowledgements/
 title: Remerciements – Vidéos sur la vue d'ensemble des ressources d'évaluation du W3C
 nosidenav: true
 
-translator: Sofia Ahmed
+translators:
+-name: "Sofia Ahmed"
 
 github:
   repository: w3c/wai-eval-overview
@@ -13,7 +14,7 @@ github:
 
 ---
 
-Les [Vidéos sur la vue d'ensemble des ressources d'évaluation](https://www.w3.org/WAI/test-evaluate/) du WAI ont été développées par le [Education Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/) avec le soutien du [WAI-Guide project](https://www.w3.org/WAI/about/projects/wai-guide/) fondé par la Commission européenne (CE) sous le programme Horizon 2020 (convention de subvention 822245).
+Les [Vidéos sur la vue d'ensemble des ressources d'évaluation](https://www.w3.org/WAI/test-evaluate/) du WAI ont été développées par le [Groupe de travail Éducation et Promotion (EOWG)](https://www.w3.org/WAI/EO/) avec le soutien du [WAI-Guide project](https://www.w3.org/WAI/about/projects/wai-guide/) fondé par la Commission européenne (CE) sous le programme Horizon 2020 (convention de subvention 822245).
 
 Droits d'utilisation
 -----------------
