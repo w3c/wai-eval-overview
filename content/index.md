@@ -108,7 +108,7 @@ Web accessibility evaluation tools are software programs or online services that
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
 %}
 
-Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG). 
+Conformance evaluation determines how well web pages or applications meet accessibility standards. W3C’s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
 
 [[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/)
 :   A short page with basic information to get you started. We suggest you read it before going to the [full WCAG-EM document](https://www.w3.org/TR/WCAG-EM/).
@@ -199,14 +199,14 @@ _This video is also available on a W3C server: [Video: Evaluating Web Accessibil
     </tr>
     <tr>
       <td>For more experienced evaluators, WAI provides "WCAG-EM", the "Website Accessibility Conformance Evaluation Methodology". </td>
-      <td>WCAG-EM. Website Accessibility Conformance Evaluation Methodology. A person in front of a computer. A simplified report is displayed. A person in front of a computer, and the screen showing a simplified report.</td>
+      <td>WCAG-EM. Website Accessibility Conformance Evaluation Methodology. A person in front of a computer. A simplified report is displayed.</td>
     </tr>
     <tr>
       <td>The "WCAG-EM Report Tool" helps you record the findings as you follow the methodology. </td>
       <td>WCAG-EM Report Tool. A progress bar shows the various stages of the evaluation methodology.</td>
     </tr>
     <tr>
-      <td>To help you better understand how different users experience your website and applications, WAI provides guidance in "Involving Users in Web Projects for Better, Easier Accessibility" and Involving users in Evaluating Web Accessibility.</td>
+      <td>To help you better understand how different users experience your website and applications, WAI provides guidance in "Involving Users in Web Projects for Better, Easier Accessibility" and "Involving users in Evaluating Web Accessibility."</td>
       <td>The screen splits into 12 fields each with a different user in front of a computer. Involving Users in Web Projects for Better, Easier Accessibility and Involving users in Evaluating Web Accessibility</td>
     </tr>
     <tr>
@@ -225,4 +225,3 @@ _This video is also available on a W3C server: [Video: Evaluating Web Accessibil
 </table>
 
 {% include excol.html type="end" %}
-
