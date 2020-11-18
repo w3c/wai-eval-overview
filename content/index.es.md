@@ -17,7 +17,7 @@ contributors:
 
 github: 
   repository: w3c/wai-eval-overview
-  path: index.es.md
+  path: content/index.es.md
 
 feedbackmail: wai@w3.org
 footer: >
