@@ -2,11 +2,13 @@
 lang: fr
 permalink: /test-evaluate/acknowledgements/fr
 ref: /test-evaluate/acknowledgements/
-title: Remerciements – Vidéos sur la vue d'ensemble des ressources d'évaluation du W3C
+title: Remerciements – Vidéos de la Vue d'ensemble des ressources d'évaluation du W3C
 nosidenav: true
 
 translators:
 -name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 github:
   repository: w3c/wai-eval-overview
@@ -14,7 +16,7 @@ github:
 
 ---
 
-Les [Vidéos sur la vue d'ensemble des ressources d'évaluation](https://www.w3.org/WAI/test-evaluate/) du WAI ont été développées par le [Groupe de travail Éducation et Promotion (EOWG)](https://www.w3.org/WAI/EO/) avec le soutien du [WAI-Guide project](https://www.w3.org/WAI/about/projects/wai-guide/) fondé par la Commission européenne (CE) sous le programme Horizon 2020 (convention de subvention 822245).
+Les [Vidéos de la Vue d'ensemble des ressources d'évaluation](https://www.w3.org/WAI/test-evaluate/) de la WAI ont été développées par le [Groupe de travail Éducation et Promotion (EOWG)](https://www.w3.org/WAI/EO/) avec le soutien du projet [WAI-Guide](https://www.w3.org/WAI/about/projects/wai-guide/) financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (822245).
 
 Droits d'utilisation
 -----------------
@@ -24,7 +26,7 @@ Droits d'utilisation
 Direction du projet
 ------------------
 
--   **Auteur et direction du projet :** [Shadi Abou-Zahra](https://www.w3.org/People/shadi), WAI du W3C
+-   **Rédacteur et chef du projet :** [Shadi Abou-Zahra](https://www.w3.org/People/shadi), WAI du W3C
 -   **Co-présidents du EOWG :** Brent Bakken, Pearson et Sharron Rush, Knowbility
 -   **Contact au sein du EOWG :** [Shawn Lawton Henry](https://www.w3.org/People/shawn), WAI du W3C
 
@@ -38,7 +40,7 @@ Principaux contributeurs
 -   Laura Keen, Bibliothèque du Congrès
 -   Estel·la Oncins Noguer
 
-Contribution des participants du EOWG
+Contribution des participants au EOWG
 ------------------------------
 
 -   Daniel Montalvo, WAI du W3C
