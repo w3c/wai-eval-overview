@@ -6,7 +6,7 @@ title: Remerciements – Vidéos de la Vue d'ensemble des ressources d'évaluati
 nosidenav: true
 
 translators:
--name: "Sofia Ahmed"
+- name: "Sofia Ahmed"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
