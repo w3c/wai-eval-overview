@@ -14,6 +14,8 @@ github:
 feedbackmail: wai@w3.org
 ---
 
-## May 2021
+## 7 May 2021
 
-* Added text in English to the Spanish translation.
+* Added changelog. [Diff of markup](https://github.com/w3c/wai-eval-overview/commit/4843dca9aba0d63b044cb4c784cdf0b4b8b75984#diff-a4f40b84fbcf1a7939d596dca4939bbae6e56c05ad06a62b719b42693a9baf07)
+
+* Added new text in English to the Spanish translation.
