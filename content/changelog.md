@@ -20,9 +20,10 @@ feedbackmail: wai@w3.org
 
 This page is designed to help update translations.
 
-<--
+<!-- 
 This page is designed so translators can copy and paste from this rendered changelog page. Or, translators can use the [W3C Accessibility Standards Overview page source](https://raw.githubusercontent.com/w3c/wai-std-gl-overview/master/content/index.md).
-
+-->
+<!--
 For others, **particularly significant or substantive changes are summarized after “Significant:”**.
 -->
 
