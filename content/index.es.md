@@ -73,7 +73,7 @@ Existen herramientas que ayudan con la evaluación. Sin embargo, ninguna herrami
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
-    captions="/content-images/wai-eval-overview/|en|default"
+    captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
