@@ -16,15 +16,17 @@ github:
   repository: w3c/wai-eval-overview
   path: content/index.fr.md
 
+ref: /test-evaluate/
+changelog: /test-evaluate/changelog/
+
 feedbackmail: wai@w3.org
 class: tight-page
 footer: >
   <p>Note à propos de l'audiodescription : les vidéos présentes sur cette page n'incluent pas d'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus gênante qu'utile pour la plupart des utilisateurs, y compris les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription avec la description des images ("transcription descritive").</p>
-  <p><strong>Date :</strong> Mise à jour : 28 avril 2020.</p>
+  <p><strong>Date :</strong> Mise à jour : 7 mai 2021. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Vidéos développées par le<em>Groupe de travail Éducation et Promotion</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (822245) <a href="./acknowledgements/">Remerciements</a>.</p>
   <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> Les vidéos sont autorisées sous une <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">license publique Creative Commons Attribution 4.0 International</a>.</p>
-ref: /test-evaluate/
 
 ---
 
