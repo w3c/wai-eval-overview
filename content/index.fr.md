@@ -97,7 +97,8 @@ Même si vous n'avez aucune connaissance en matière d'accessibilité et que vou
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
-    captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en"
+    subtitles="/content-images/wai-eval-overview/tools-for-evaluating-fr.vtt|fr|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Vidéo : Vue d'ensemble des outils d'évaluation"
     poster="/content-images/wai-eval-overview/video-thumb-tools.png"
@@ -114,7 +115,8 @@ Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des servi
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
-    captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en"
+    subtitles="/content-images/wai-eval-overview/conformance-evaluation-fr.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Vidéo : vue d'ensemble de l'évaluation de la conformité"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
@@ -140,7 +142,8 @@ Communiquez les résultats de l'évaluation clairement, en incluant le périmèt
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
-    captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en"
+    captions="/content-images/wai-eval-overview/involving-users-fr.vtt|fr|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Vidéo : Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble"
     poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
