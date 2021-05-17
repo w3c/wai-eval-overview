@@ -63,8 +63,10 @@ This abuses the video-card component and tries to make it work with an embedded 
 {% endcomment %}
 <div class="video-card">
   {% include video-player.html
-      yt-id="C4GIqWeywiI"
-      captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
+      yt-id="C4GIqWeywiI" 
+      path="/content-images/wai-eval-overview/"
+      captions="evaluating-resources-overview-cc.vtt|en"
+      subtitles="evaluating-resources-overview-fr.vtt|fr|default"
   %}
   <p><a href="#alternatives">Alternatives pour la vidéo d'introduction - Vue d'ensemble des ressources</a></p>
 </div>
@@ -77,7 +79,8 @@ Il existe des outils qui aident à l'évaluation. Cependant, aucun outil n'est s
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
-    captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en"
+    subtitles="/content-images/wai-eval-overview/easy-checks-accessibility-fr.vtt|fr|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Vidéo : vue d'ensemble des vérifications simples"
