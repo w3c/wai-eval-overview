@@ -14,6 +14,7 @@ contributors:
 - name: "Flora Bazie"
 - name: "Rémi Bétin"
 - name: "Sandra Velarde Gonzalez (ETNIC)"
+- name: "Sylvie Duchateau"
 
 github:
   repository: w3c/wai-eval-overview
