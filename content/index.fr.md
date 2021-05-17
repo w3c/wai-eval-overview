@@ -116,7 +116,7 @@ Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des servi
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
     captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en"
-    subtitles="/content-images/wai-eval-overview/conformance-evaluation-fr.vtt|en|default"
+    subtitles="/content-images/wai-eval-overview/conformance-evaluation-fr.vtt|fr|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Vidéo : vue d'ensemble de l'évaluation de la conformité"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
