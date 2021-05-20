@@ -5,7 +5,7 @@ title: "Visión general sobre la evaluación de la accesibilidad web"
 nav_title: "Visión general sobre la evaluación"
 
 lang: es
-last_updated: 2019-07-21
+last_updated: 2021-05-20
 permalink: /test-evaluate/es
 
 translators:
@@ -25,11 +25,11 @@ feedbackmail: wai@w3.org
 class: tight-page
 # Do not translate CHANGELOG in footer below.
 footer: >
-  <p>Nota sobre la descripción de los vídeos: Los vídeos de esta página no incluyen descripción de audio sincronizada porque los visuales sólo ilustran el audio y no proporcionan información adicional. En este caso, la descripción de audio distraería más que sería útil para la mayoría de las personas, incluidas las que no pueden ver los visuales. La descripción de la información visual está integrada en la Transcripción del texto con descripción de los visuales (”Transcripción descriptiva”).</p>
+  <p>Nota sobre la descripción de los vídeos: Los vídeos de esta página no incluyen descripción de audio sincronizada porque los visuales sólo ilustran el audio y no proporcionan información adicional. En este caso, la descripción de audio distraería más que sería útil para la mayoría de las personas, incluidas las que no pueden ver los visuales. La descripción de la información visual está integrada en la transcripción del texto con descripción de los visuales (”Transcripción descriptiva”).</p>
   <p><strong>Fecha:</strong> Actualizado el 7 de mayo de 2021. CHANGELOG.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p> Vídeos desarrollados por el Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Agradecimientos</a>.</p>
-  <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The videos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+  <p> Vídeos desarrollados por el Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) con el apoyo del proyecto <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> fundado por la Comisión Europea (EC) bajo el programa Horizonte 2020 (Acuerdo de subvención 822245). <a href="./acknowledgements/">Agradecimientos</a>.</p>
+  <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> Los vídeos tienen licencia de <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Atribución 4.0 Internacional Creative Commons</a>.</p>
 ---
 
 {::nomarkdown}
@@ -62,7 +62,7 @@ Esta página contiene enlaces a recursos para ayudar a evaluar la accesibilidad 
       yt-id="C4GIqWeywiI"
       captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
   %}
-  <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
+  <p><a href="#alternatives">Introducción a las alternativas para vídeo - Resumen de recursos</a></p>
 </div>
 
 Al desarrollar o rediseñar un sitio web o una aplicación web, evalúe la accesibilidad desde el principio y durante todo el proceso de desarrollo para identificar los problemas de accesibilidad lo antes posible, cuando es más fácil resolverlos.
@@ -76,7 +76,7 @@ Existen herramientas que ayudan con la evaluación. Sin embargo, ninguna herrami
     captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
-    accessible-version-label="Video: Easy Checks Overview"
+    accessible-version-label="Vídeo: Resumen de comprobaciones sencillas"
     poster="/content-images/wai-eval-overview/video-thumb-easy-checks.png"
 %}
 
@@ -91,7 +91,7 @@ Incluso si usted no tiene conocimiento sobre accesibilidad y no posee herramient
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
     captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
-    accessible-version-label="Video: Evaluation Tools Overview"
+    accessible-version-label="Vídeo: Resumen de las herramientas de evaluación"
     poster="/content-images/wai-eval-overview/video-thumb-tools.png"
 %}
 
@@ -103,13 +103,13 @@ Las herramientas de evaluación de la accesibilidad web son programas de softwar
 [[Elegir herramientas de evaluación de accesibilidad web]](/test-evaluate/tools/selecting/)
 :   Proporciona orientación sobre la elección de las herramientas. Describe las características y la funcionalidad de los diferentes tipos de herramientas de evaluación y plantea las cosas a tener en cuenta para su situación.
 
-## Evaluación de la conformidad -> Conformance Evaluation and Reports {#conformance}
+## Evaluación de la conformidad -> Evaluación de la conformidad e informes {#conformance}
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
     captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
-    accessible-version-label="Video: Conformance Evaluation Overview"
+    accessible-version-label="Vídeo: Resumen de la evaluación de la conformidad"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
 %}
 
@@ -124,8 +124,8 @@ La evaluación de conformidad determina el grado en que las páginas o las aplic
 [[Plantilla para informes de evaluación de accesibilidad web]](/test-evaluate/report-template/)
 :   Información sugerida para incluir en un informe.
 
-[ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
-:   Es una ayuda para generar informes sobre el cumplimiento que una herramienta tiene respecto a las Pautas de Accesibilidad de Herramientas de Autor ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.
+[Herramienta de informes ATAG](https://www.w3.org/WAI/atag/report-tool/)
+:   Es una ayuda para generar informes sobre el cumplimiento que una herramienta tiene respecto a las Pautas de Accesibilidad de Herramientas de Autor ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Las herramientas de autoría son programas y servicios utilizados para crear contenidos web, como los sistemas de gestión de contenidos (CMS) y los editores de HTML "lo que ves es lo que obtienes" (WYSIWYG).
 
 Comunique los resultados de la evaluación claramente, incluyendo el ámbito de aplicación.
 
@@ -135,7 +135,7 @@ Comunique los resultados de la evaluación claramente, incluyendo el ámbito de 
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
     captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
-    accessible-version-label="Video: Involving Users in Web Accessibility Overview"
+    accessible-version-label="Vídeo: La participación de los usuarios en la accesibilidad web"
     poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
 %}
 
