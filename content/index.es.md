@@ -103,7 +103,7 @@ Las herramientas de evaluación de la accesibilidad web son programas de softwar
 [[Elegir herramientas de evaluación de accesibilidad web]](/test-evaluate/tools/selecting/)
 :   Proporciona orientación sobre la elección de las herramientas. Describe las características y la funcionalidad de los diferentes tipos de herramientas de evaluación y plantea las cosas a tener en cuenta para su situación.
 
-## Evaluación de la conformidad -> Evaluación de la conformidad e informes {#conformance}
+## Evaluación de la conformidad e informes {#conformance}
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
