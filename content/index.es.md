@@ -5,7 +5,7 @@ title: "Visión general sobre la evaluación de la accesibilidad web"
 nav_title: "Visión general sobre la evaluación"
 
 lang: es
-last_updated: 2019-07-21
+last_updated: 2021-05-20
 permalink: /test-evaluate/es
 
 translators:
@@ -25,11 +25,11 @@ feedbackmail: wai@w3.org
 class: tight-page
 # Do not translate CHANGELOG in footer below.
 footer: >
-  <p>Note about video description: The videos on this page do not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
+  <p>Nota sobre la descripción de los vídeos: Los vídeos de esta página no incluyen descripción de audio sincronizada porque los visuales sólo ilustran el audio y no proporcionan información adicional. En este caso, la descripción de audio distraería más que sería útil para la mayoría de las personas, incluidas las que no pueden ver los visuales. La descripción de la información visual está integrada en la transcripción del texto con descripción de los visuales (”Transcripción descriptiva”).</p>
   <p><strong>Fecha:</strong> Actualizado el 7 de mayo de 2021. CHANGELOG.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p> Videos developed by the Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
-  <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The videos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+  <p> Vídeos desarrollados por el Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) con el apoyo del proyecto <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> fundado por la Comisión Europea (EC) bajo el programa Horizonte 2020 (Acuerdo de subvención 822245). <a href="./acknowledgements/">Agradecimientos</a>.</p>
+  <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> Los vídeos tienen licencia de <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Atribución 4.0 Internacional Creative Commons</a>.</p>
 ---
 
 {::nomarkdown}
@@ -62,7 +62,7 @@ Esta página contiene enlaces a recursos para ayudar a evaluar la accesibilidad 
       yt-id="C4GIqWeywiI"
       captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
   %}
-  <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
+  <p><a href="#alternatives">Introducción a las alternativas para vídeo - Resumen de recursos</a></p>
 </div>
 
 Al desarrollar o rediseñar un sitio web o una aplicación web, evalúe la accesibilidad desde el principio y durante todo el proceso de desarrollo para identificar los problemas de accesibilidad lo antes posible, cuando es más fácil resolverlos.
@@ -76,7 +76,7 @@ Existen herramientas que ayudan con la evaluación. Sin embargo, ninguna herrami
     captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
-    accessible-version-label="Video: Easy Checks Overview"
+    accessible-version-label="Vídeo: Resumen de comprobaciones sencillas"
     poster="/content-images/wai-eval-overview/video-thumb-easy-checks.png"
 %}
 
@@ -91,7 +91,7 @@ Incluso si usted no tiene conocimiento sobre accesibilidad y no posee herramient
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
     captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
-    accessible-version-label="Video: Evaluation Tools Overview"
+    accessible-version-label="Vídeo: Resumen de las herramientas de evaluación"
     poster="/content-images/wai-eval-overview/video-thumb-tools.png"
 %}
 
@@ -103,13 +103,13 @@ Las herramientas de evaluación de la accesibilidad web son programas de softwar
 [[Elegir herramientas de evaluación de accesibilidad web]](/test-evaluate/tools/selecting/)
 :   Proporciona orientación sobre la elección de las herramientas. Describe las características y la funcionalidad de los diferentes tipos de herramientas de evaluación y plantea las cosas a tener en cuenta para su situación.
 
-## Evaluación de la conformidad -> Conformance Evaluation and Reports {#conformance}
+## Evaluación de la conformidad e informes {#conformance}
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
     captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
-    accessible-version-label="Video: Conformance Evaluation Overview"
+    accessible-version-label="Vídeo: Resumen de la evaluación de la conformidad"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
 %}
 
@@ -124,8 +124,8 @@ La evaluación de conformidad determina el grado en que las páginas o las aplic
 [[Plantilla para informes de evaluación de accesibilidad web]](/test-evaluate/report-template/)
 :   Información sugerida para incluir en un informe.
 
-[ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
-:   Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.
+[Herramienta de informes ATAG](https://www.w3.org/WAI/atag/report-tool/)
+:   Es una ayuda para generar informes sobre el cumplimiento que una herramienta tiene respecto a las Pautas de Accesibilidad de Herramientas de Autor ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Las herramientas de autoría son programas y servicios utilizados para crear contenidos web, como los sistemas de gestión de contenidos (CMS) y los editores de HTML "lo que ves es lo que obtienes" (WYSIWYG).
 
 Comunique los resultados de la evaluación claramente, incluyendo el ámbito de aplicación.
 
@@ -135,7 +135,7 @@ Comunique los resultados de la evaluación claramente, incluyendo el ámbito de 
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
     captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
-    accessible-version-label="Video: Involving Users in Web Accessibility Overview"
+    accessible-version-label="Vídeo: La participación de los usuarios en la accesibilidad web"
     poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
 %}
 
@@ -158,13 +158,13 @@ La [descripción general de las normas de evaluación](/standards-guidelines/eva
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-##  Alternatives for Video Introduction - Resources Overview {#alternatives}
+##  Introducción a las alternativas para video - Resumen de recursos {#alternatives}
 
 {% include excol.html type="middle" %}
 
-_This video is also available on a W3C server: [Video: Evaluating Web Accessibility - Resources Overview (file format: MP4, file size: 45MB)](http://media.w3.org/wai/evaluation-intros/evaluating-resources-overview.mp4)._
+_Este vídeo también está disponible en un servidor W3C: [Vídeo: Evaluación de Accesibilidad Web - Resumen de recursos (formato de archivo: MP4, tamaño: 45MB)](http://media.w3.org/wai/evaluation-intros/evaluating-resources-overview.mp4)._
 
-###  Text Transcript with Description of Visuals for Video Introduction - Resources Overview {#transcript}
+###  Transcripción textual de los contenidos visuales del vídeo de introducción - Resumen de recursos {#transcript}
 
 <table aria-labelledby="transcript">
   <tbody>
@@ -173,60 +173,60 @@ _This video is also available on a W3C server: [Video: Evaluating Web Accessibil
       <th>Visual</th>
     </tr>
     <tr>
-      <td>Evaluating web accessibility: resources overview </td>
-      <td>Evaluating web accessibility: resources overview.</td>
+      <td>Evaluación de Accesibilidad Web: resumen de recursos</td>
+      <td>Evaluación de Accesibilidad Web: resumen de recursos</td>
     </tr>
     <tr>
-       <td>Evaluation helps you ensure that your websites and applications meet accessibility requirements. </td>
-      <td>A magnifying glass with the word evaluation on a computer screen with a website on it.</td>
+       <td>La evaluación ayuda a garantizar que su sitio web cumpla con los requisitos de accesibilidad</td>
+      <td>Aparece una lupa con la palabra "evaluación" en la pantalla de una computadora que muestra un sitio web</td>
     </tr>
     <tr>
-      <td>Ideally you evaluate regularly throughout the design and development process. This way you find errors early and avoid costly repairs later in the process. </td>
-      <td>The web page components rearrange on the page until following a good design.</td>
+      <td>Idealmente, evalúe de forma regular durante todo el proceso de diseño y desarrollo. De esta manera detectará errores rápidamente y evitará costosas correcciones más adelante</td>
+      <td>Los componentes de la página web se reorganizan en la página hasta que se logra un diseño óptimo</td>
     </tr>
     <tr>
-      <td>The W3C Web Accessibility Initiative, W-A-I, or WAI, provides free resources to help you with your evaluation. </td>
-      <td>W3C and Web Accessibility Initiative (WAI) logos.</td>
+      <td>La Iniciativa de Accesibilidad Web del W3C, W-A-I o WAI, proporciona recursos gratuitos para ayudarle a completar su evaluación</td>
+      <td>Logotipos del W3C y de la Iniciativa de Accesibilidad Web (WAI)</td>
     </tr>
     <tr>
-      <td>"Easy Checks - A First Review of Web Accessibility" explains how you can do some checks yourself. </td>
-      <td>"Easy Checks - A First Review of Web Accessibility". A person in front of the computer. A light bulb appears.</td>
+      <td>"Verificaciones simples: un primer vistazo a la accesibilidad web" explica cómo puede realizar algunas verificaciones usted mismo</td>
+      <td>"Verificaciones simples: un primer vistazo a la accesibilidad web". Una persona se sienta frente a la computadora. Aparece una bombilla</td>
     </tr>
     <tr>
-      <td>Even if you are new to web accessibility and not technical, these checks give you a rough idea of the accessibility of any web page. </td>
-      <td>A document of checks. Each check is highlighted to show fails or passes.</td>
+      <td>Incluso si es nuevo en la accesibilidad web y no tiene un perfil técnico, estas comprobaciones le dan una idea aproximada de la accesibilidad de cualquier página web</td>
+      <td>Aparece un documento que contiene las comprobaciones. Cada verificación se resalta para mostrar qué es correcto y qué no</td>
     </tr>
     <tr>
-      <td>WAI also maintains a "Web Accessibility Evaluation Tools List" that you can filter. </td>
-      <td>Web Accessibility Evaluation Tools List. A list of tools displayed as icons..</td>
+      <td>WAI también mantiene una "Lista de herramientas de evaluación de accesibilidad web" que puede se puede filtrar</td>
+      <td>Lista de herramientas de evaluación de accesibilidad web. Aparece una lista de herramientas en forma de iconos</td>
     </tr>
     <tr>
-      <td>"Selecting Web Accessibility Evaluation Tools" explains what tools can and cannot do. </td>
-      <td>Selecting Web Accessibility Evaluation Tools. The tools icons displayed in a computer.</td>
+      <td>"La selección de herramientas de evaluación de accesibilidad web" explica lo que una herramienta puede y no puede hacer</td>
+      <td>La selección de herramientas de evaluación de accesibilidad web. Los iconos que representan herramientas se muestran en una computadora</td>
     </tr>
     <tr>
-      <td>For more experienced evaluators, WAI provides "WCAG-EM", the "Website Accessibility Conformance Evaluation Methodology". </td>
-      <td>WCAG-EM. Website Accessibility Conformance Evaluation Methodology. A person in front of a computer. A simplified report is displayed.</td>
+      <td>Para los evaluadores más experimentados, WAI proporciona "WCAG-EM", la Metodología de Evaluación de Conformidad de Accesibilidad Web</td>
+      <td>WCAG-EM. Metodología de evaluación del cumplimiento de la accesibilidad web. Una persona se sienta frente a una computadora. Se muestra un informe simplificado en la pantalla</td>
     </tr>
     <tr>
-      <td>The "WCAG-EM Report Tool" helps you record the findings as you follow the methodology. </td>
-      <td>WCAG-EM Report Tool. A progress bar shows the various stages of the evaluation methodology.</td>
+      <td>La "Herramienta de informes WCAG-EM" permite registrar los resultados a medida que se sigue la metodología</td>
+      <td>Herramienta de informes WCAG-EM. Una barra de progreso muestra las diferentes etapas de la metodología de evaluación</td>
     </tr>
     <tr>
-      <td>To help you better understand how different users experience your website and applications, WAI provides guidance in "Involving Users in Web Projects for Better, Easier Accessibility" and "Involving users in Evaluating Web Accessibility."</td>
-      <td>The screen splits into 12 fields each with a different user in front of a computer. Involving Users in Web Projects for Better, Easier Accessibility and Involving users in Evaluating Web Accessibility</td>
+      <td>Para ayudarle a comprender mejor cómo diferentes usuarios navegan por su sitio web, WAI facilita una guía sobre cómo "Involucrar a los usuarios en proyectos de desarrollo web para mejorar y hacer más fácil la accesibilidad" e "Involucrar a los usuarios en la evaluación de la accesibilidad web"</td>
+      <td>La pantalla está dividida en 12 partes, en cada una de las cuales un usuario diferente se enfrenta a una computadora. Involucre a los usuarios en proyectos web para una mejor y más fácil accesibilidad e Involucre a los usuarios en la evaluación de la accesibilidad web</td>
     </tr>
     <tr>
-      <td>With all these resources, you can learn how to check your website for accessibility and prioritize the issues you need to address first. </td>
-      <td>A magnifying glass with the words check for accessibility is replaced with a list of issues.</td>
+      <td>Con todos estos recursos, puede aprender a verificar la accesibilidad de su sitio web y priorizar los problemas que necesita solucionar primero</td>
+      <td>Una lupa que muestra las palabras "control de accesibilidad" se reemplaza con una lista de problemas</td>
     </tr>
     <tr>
-      <td>Web accessibility: essential for some, useful for all. </td>
-      <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+      <td>Accesibilidad web: esencial para algunos, útil para todos</td>
+      <td>Se muestran iconos alrededor de una computadora: una mano, un ojo, un cerebro, una oreja y una boca con ondas sonoras</td>
     </tr>
     <tr>
-      <td>For resources on evaluating web accessibility, visit w3.o-r-g/W-A-I/evaluation. </td>
-      <td>Evaluation resources, W3C and Web Accessibility Initiative (WAI) logos.</td>
+      <td>Para obtener recursos sobre la evaluación de la accesibilidad web, visite w3.o-r-g/W-A-I/evaluation</td>
+      <td>Recursos de evaluación, logotipos del W3C y la Iniciativa de Accesibilidad Web (WAI)</td>
     </tr>
   </tbody>
 </table>
