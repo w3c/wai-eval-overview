@@ -147,7 +147,8 @@ Getting the right people and skills involved makes your accessibility evaluation
 ## For Evaluation Tool Developers: EARL, ACT Rules Format, WCAG 2 Test Rules
 
 **WCAG 2 Test Rules** describe how to test conformance to Web Content Accessibility Guidelines (WCAG) success criteria. They **are primarily for developers of evaluation tools and test methodologies**.
-* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about)
+* test without [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about)
+* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/)
 * [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
 Specifications for expressing test results (EARL) and for writing accessibility test rules (ACT Rules Format) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
