@@ -5,7 +5,7 @@ title: "Evaluating Web Accessibility Overview"
 nav_title: "Evaluation Overview"
 
 lang: en
-last_updated: 2021-05-07
+last_updated: 2022-02-02
 permalink: /test-evaluate/
 
 github:
@@ -19,7 +19,7 @@ feedbackmail: wai@w3.org
 class: tight-page
 footer: >
   <p>Note about video description: The videos on this page do not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-  <p><strong>Date:</strong> Updated 7 May 2021. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 2 February 2022. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Videos developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
   <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The videos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
@@ -144,9 +144,13 @@ Getting the right people and skills involved makes your accessibility evaluation
 [Using Combined Expertise to Evaluate Web Accessibility](/test-evaluate/combined-expertise/)
 :   Discusses skill sets and considerations for collaborative review.
 
-## Standards
+## Standards and WCAG 2 Test Rules and Standards
 
 Specifications for writing accessibility test rules (ACT Rules Format) and expressing test results (EARL) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
+
+WCAG 2 Test Rules describe how to test conformance to Web Content Accessibility Guidelines (WCAG) success criteria. They are primarily for developers of evaluation tools and test methodologies.
+* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about)
+* [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
 <hr>
 
