@@ -144,16 +144,15 @@ Getting the right people and skills involved makes your accessibility evaluation
 [Using Combined Expertise to Evaluate Web Accessibility](/test-evaluate/combined-expertise/)
 :   Discusses skill sets and considerations for collaborative review.
 
-## Standards and WCAG 2 Test Rules and Standards
+## Standards and WCAG 2 Test Rules
 
 Specifications for writing accessibility test rules (ACT Rules Format) and expressing test results (EARL) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
 
-WCAG 2 Test Rules describe how to test conformance to Web Content Accessibility Guidelines (WCAG) success criteria. They are primarily for developers of evaluation tools and test methodologies.
+**WCAG 2 Test Rules** describe how to test conformance to Web Content Accessibility Guidelines (WCAG) success criteria. They **are primarily for developers of evaluation tools and test methodologies**.
 * [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about)
 * [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
 <hr>
-
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
