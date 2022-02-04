@@ -7,7 +7,7 @@ nosidenav: true
 
 github:
   repository: w3c/wai-eval-overview
-  path: content/acknowledgments.md
+  path: content/acknowledgements.md
 
 ---
 
