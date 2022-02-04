@@ -146,7 +146,7 @@ Getting the right people and skills involved makes your accessibility evaluation
 
 ## For Developers of Evaluation Tools and Methodologies
 
-**WCAG 2 Test Rules** describe how to test conformance to Web Content Accessibility Guidelines (WCAG) success criteria. They **are primarily for developers of evaluation tools and test methodologies**.
+**WCAG 2 Test Rules** describe how to test conformance to Web Content Accessibility Guidelines (WCAG) success criteria. They are primarily for developers of evaluation tools and methodologies.
 * [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/)
 * [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
