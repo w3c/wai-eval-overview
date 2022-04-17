@@ -217,7 +217,7 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer 
       <td>WCAG-EM. Méthodologie d’évaluation de la conformité à l’accessibilité Web. Une personne se trouve en face d’un ordinateur. Un rapport simplifié s’affiche sur l’écran.</td>
     </tr>
     <tr>
-      <td>"L’outil de création de rapports WCAG-EM" vous permet d’enregistrer les résultats à mesure que vous suivez la méthodologie.</td>
+      <td>« L’outil de création de rapports WCAG-EM » vous permet d’enregistrer les résultats à mesure que vous suivez la méthodologie.</td>
       <td>Outil de création de rapports WCAG-EM. Une barre de progression montre les différentes étapes de la méthodologie d’évaluation.</td>
     </tr>
     <tr>
