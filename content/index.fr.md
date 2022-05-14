@@ -28,7 +28,7 @@ class: tight-page
 footer: >
   <p>Note à propos de la description vidéo : les vidéos présentes sur cette page n’incluent pas l’audiodescription synchronisée car les images n’illustrent que l’audio et ne fournissent pas d’informations supplémentaires. Dans ce cas-ci, l’audiodescription serait plus distrayante qu’utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription textuelle avec description des visuels (« transcription descriptive »).</p>
   <p><strong>Date :</strong> Mise à jour : 7 mai 2021. CHANGELOG.</p>
-  <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Vidéos créées par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (convention de subvention n°822245) <a href="./acknowledgements/">Remerciements</a>.</p>
   <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> Les vidéos sont mises à disposition en vertu de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licence <i lang="en">Creative Commons Attribution 4.0 International</i></a>.</p>
 
@@ -170,7 +170,7 @@ Des spécifications pour l’écriture de règles de test de l’accessibilité 
 
 {% include excol.html type="middle" %}
 
-_Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer l’accessibilité Web – Vue d’ensemble des ressources (format du fichier : MP4, taille du fichier : 45 Mo)](http://media.w3.org/wai/evaluation-intros/evaluating-resources-overview.mp4)._
+_Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer l’accessibilité Web – Vue d’ensemble des ressources (format du fichier : MP4, taille du fichier : 45 Mo)](http://media.w3.org/wai/evaluation-intros/evaluating-resources-overview.mp4)._
 
 ###  Transcription textuelle avec description des visuels de la vidéo d’introduction – Vue d’ensemble des ressources {#transcript}
 
@@ -230,7 +230,7 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer 
     </tr>
     <tr>
       <td>Accessibilité Web : essentielle pour certains, utile à tous.</td>
-      <td>Des icônes autour d’un ordinateur s’affichent : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
+      <td>Des icônes autour d’un ordinateur s’affichent : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
     </tr>
     <tr>
       <td>Pour des ressources sur l’évaluation de l’accessibilité Web, allez sur w3.o-r-g/W-A-I/evaluation.</td>
