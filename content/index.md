@@ -126,10 +126,10 @@ Conformance evaluation determines how well web pages or applications meet access
 
 Communicate the results of evaluation clearly, including the scope of the evaluation.
 
-## For Developers of Test Tools and Methodologies
+## Test Edge Cases Consistently
 
-[WCAG 2 Test Rules](/standards-guidelines/act/rules/about/)
-:   Describe how to test conformance to Web Content Accessibility Guidelines (WCAG) success criteria. They are primarily for developers of test tools and methodologies.
+[Accessibility Conformance Testing (ACT) Rules](/standards-guidelines/act/rules/about//)
+: ACT Rules describe how to test conformance of accessibility standards such as Web Content Accessibility Guidelines (WCAG) and WAI-ARIA. ACT Rules inform accessibility testers on how to evaluate edge cases in way that is consistent with other accessibility testers, test tools, and methodologies.
 
 Specifications for expressing test results (EARL) and for writing accessibility test rules (Accessibility Conformance Testing (ACT) Rules Format) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
 
