@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Visión general sobre la evaluación de la accesibilidad web"
 nav_title: "Visión general sobre la evaluación"
 
