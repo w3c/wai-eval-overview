@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Evaluating Web Accessibility Overview"
 nav_title: "Evaluation Overview"
 
