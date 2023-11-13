@@ -61,11 +61,9 @@ Cette page renvoie à des ressources pour aider à évaluer l’accessibilité W
 This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
 {% endcomment %}
 <div class="video-card">
-  {% include video-player.html
-      yt-id="C4GIqWeywiI" 
-      path="/content-images/wai-eval-overview/"
-      captions="evaluating-resources-overview-cc.vtt|en"
-      subtitles="evaluating-resources-overview-fr.vtt|fr|default"
+  {% include video-player-data.html
+      video-id="evaluating-resources-overview"
+      yt-id="C4GIqWeywiI"
   %}
   <p><a href="#alternatives">Alternatives pour la vidéo d’introduction – Vue d’ensemble des ressources</a></p>
 </div>
@@ -78,8 +76,8 @@ Il existe des outils qui aident à l’évaluation. Cependant, aucun outil n’e
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
-    captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en"
-    subtitles="/content-images/wai-eval-overview/easy-checks-accessibility-fr.vtt|fr|default"
+    captions="/content-images/wai-eval-overview/easy-checks-accessibility.en.vtt|en"
+    subtitles="/content-images/wai-eval-overview/easy-checks-accessibility.fr.vtt|fr|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Vidéo : vue d’ensemble des vérifications simples"
@@ -95,8 +93,8 @@ Même si vous n’avez aucune connaissance en matière d’accessibilité et que
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
-    captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en"
-    subtitles="/content-images/wai-eval-overview/tools-for-evaluating-fr.vtt|fr|default"
+    captions="/content-images/wai-eval-overview/tools-for-evaluating.en.vtt|en"
+    subtitles="/content-images/wai-eval-overview/tools-for-evaluating.fr.vtt|fr|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Vidéo : Vue d’ensemble des outils d’évaluation"
     poster="/content-images/wai-eval-overview/video-thumb-tools.png"
@@ -114,8 +112,8 @@ Les outils d’évaluation de l’accessibilité Web sont des logiciels ou des s
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
-    captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en"
-    subtitles="/content-images/wai-eval-overview/conformance-evaluation-fr.vtt|fr|default"
+    captions="/content-images/wai-eval-overview/conformance-evaluation.en.vtt|en"
+    subtitles="/content-images/wai-eval-overview/conformance-evaluation.fr.vtt|fr|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Vidéo : vue d’ensemble de l’évaluation de la conformité"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
@@ -141,8 +139,8 @@ Communiquez les résultats de l’évaluation clairement, en incluant le périm�
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
-    captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en"
-    captions="/content-images/wai-eval-overview/involving-users-fr.vtt|fr|default"
+    captions="/content-images/wai-eval-overview/involving-users.en.vtt|en"
+    captions="/content-images/wai-eval-overview/involving-users.fr.vtt|fr|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Vidéo : Impliquer les utilisateurs dans l’accessibilité Web – Vue d’ensemble"
     poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"

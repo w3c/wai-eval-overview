@@ -56,9 +56,9 @@ Esta página contiene enlaces a recursos para ayudar a evaluar la accesibilidad 
 ## Introducción {#intro}
 
 <div class="video-card">
-  {% include video-player.html
+  {% include video-player-data.html
+      video-id="evaluating-resources-overview"
       yt-id="C4GIqWeywiI"
-      captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
   %}
   <p><a href="#alternatives">Introducción a las alternativas para vídeo - Resumen de recursos</a></p>
 </div>
@@ -71,7 +71,7 @@ Existen herramientas que ayudan con la evaluación. Sin embargo, ninguna herrami
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
-    captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/easy-checks-accessibility.en.vtt|en|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Vídeo: Resumen de comprobaciones sencillas"
@@ -87,7 +87,7 @@ Incluso si usted no tiene conocimiento sobre accesibilidad y no posee herramient
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
-    captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/tools-for-evaluating.en.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Vídeo: Resumen de las herramientas de evaluación"
     poster="/content-images/wai-eval-overview/video-thumb-tools.png"
@@ -105,7 +105,7 @@ Las herramientas de evaluación de la accesibilidad web son programas de softwar
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
-    captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/conformance-evaluation.en.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Vídeo: Resumen de la evaluación de la conformidad"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
@@ -131,7 +131,7 @@ Comunique los resultados de la evaluación claramente, incluyendo el ámbito de 
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
-    captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/involving-users.en.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Vídeo: La participación de los usuarios en la accesibilidad web"
     poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
