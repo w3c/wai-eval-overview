@@ -53,9 +53,9 @@ This page links to resources to help evaluate web accessibility. Accessibility e
 This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
 {% endcomment %}
 <div class="video-card">
-  {% include video-player.html
+  {% include video-player-data.html
+      video-id="evaluating-resources-overview"
       yt-id="C4GIqWeywiI"
-      captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
   %}
   <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
 </div>
@@ -68,7 +68,7 @@ There are evaluation tools that help with evaluation. However, no tool alone can
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/easy-checks-accessibility.mp4"
-    captions="/content-images/wai-eval-overview/easy-checks-accessibility-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/easy-checks-accessibility.en.vtt|en|default"
     poster="video-thumb-easy-checks.png"
     accessible-version="https://www.w3.org/WAI/test-evaluate/preliminary/#video-intro"
     accessible-version-label="Video: Easy Checks Overview"
@@ -84,7 +84,7 @@ Even if you don’t know anything about accessibility and you don’t have a rob
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4"
-    captions="/content-images/wai-eval-overview/tools-for-evaluating-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/tools-for-evaluating.en.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/tools/#video-intro"
     accessible-version-label="Video: Evaluation Tools Overview"
     poster="/content-images/wai-eval-overview/video-thumb-tools.png"
@@ -102,7 +102,7 @@ Web accessibility evaluation tools are software programs or online services that
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"
-    captions="/content-images/wai-eval-overview/conformance-evaluation-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/conformance-evaluation.en.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/conformance/#video-intro"
     accessible-version-label="Video: Conformance Evaluation Overview"
     poster="/content-images/wai-eval-overview/video-thumb-conformance.png"
@@ -133,7 +133,7 @@ Specifications for expressing test results (EARL) and for writing accessibility 
 
 {% include video-card.html
     video-url="//media.w3.org/wai/evaluation-intros/involving-users.mp4"
-    captions="/content-images/wai-eval-overview/involving-users-cc.vtt|en|default"
+    captions="/content-images/wai-eval-overview/involving-users.en.vtt|en|default"
     accessible-version="https://www.w3.org/WAI/test-evaluate/involving-users/#video-intro"
     accessible-version-label="Video: Involving Users in Web Accessibility Overview"
     poster="/content-images/wai-eval-overview/video-thumb-involving-users.png"
