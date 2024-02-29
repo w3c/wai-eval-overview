@@ -102,7 +102,7 @@ Même si vous n’avez aucune connaissance en matière d’accessibilité et que
 
 Les outils d’évaluation de l’accessibilité Web sont des logiciels ou des services en ligne qui aident à déterminer si le contenu Web répond aux standards de l’accessibilité.
 
-[Liste des outils d’évaluation de l’accessibilité Web](https://www.w3.org/WAI/ER/tools/)
+[Liste des outils d’évaluation de l’accessibilité Web](/test-evaluate/tools/list/)
 : Inclut des informations sur plus de 100 outils. Vous pouvez utiliser les filtres pour réduire la liste aux types d’outils qui vous intéressent.
 
 [[Choisir des outils d’évaluation de l’accessibilité Web]](/test-evaluate/tools/selecting/)
