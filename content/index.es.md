@@ -95,7 +95,7 @@ Incluso si usted no tiene conocimiento sobre accesibilidad y no posee herramient
 
 Las herramientas de evaluación de la accesibilidad web son programas de software o servicios en línea que ayudan a determinar si el contenido web cumple con los estándares de accesibilidad.
 
-[Lista de herramientas de evaluación de la accesibilidad web](https://www.w3.org/WAI/ER/tools/)
+[Lista de herramientas de evaluación de la accesibilidad web](/test-evaluate/tools/list/)
 :   Incluye información sobre más de 100 herramientas. Puede utilizar los filtros para limitar la lista a los tipos de herramientas que le interesan.
 
 [[Elegir herramientas de evaluación de accesibilidad web]](/test-evaluate/tools/selecting/)
